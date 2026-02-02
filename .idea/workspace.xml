@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.2初始化">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.2/添加md文件">
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T01L0344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T02L3794.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T03L2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T04L3643.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +76,16 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.27471265&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;swagger&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.Ab.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.BstTree.executor&quot;: &quot;Run&quot;,
@@ -477,7 +481,10 @@
       <workItem from="1769999071123" duration="256000" />
       <workItem from="1770001158823" duration="346000" />
       <workItem from="1770001611027" duration="1035000" />
-      <workItem from="1770003085399" duration="648000" />
+      <workItem from="1770003085399" duration="1659000" />
+      <workItem from="1770014154922" duration="1895000" />
+      <workItem from="1770018053823" duration="3955000" />
+      <workItem from="1770035637732" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -487,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770002518569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2026.2.2/添加md文件">
+      <option name="closed" value="true" />
+      <created>1770003980068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770003980068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +521,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2026.2.2初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.2.2初始化" />
+    <MESSAGE value="2026.2.2/添加md文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.2.2/添加md文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
