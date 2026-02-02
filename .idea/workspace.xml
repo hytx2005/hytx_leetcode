@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_E:/javacode/leetcode" value="2jpYlCqwZecCrNic8euaVWEsnQn" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jpYlCqwZecCrNic8euaVWEsnQn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayDequeTest1.executor": "Run",
+    "Application.Leetcode189.executor": "Run",
+    "Application.Leetcode240.executor": "Debug",
+    "Application.Leetcode39.executor": "Run",
+    "Application.LinkedListDequeTest.executor": "Run",
+    "JUnit.Stu1Test.test.executor": "Run",
+    "JUnit.Stu1Test.test1.executor": "Run",
+    "JUnit.Stu1Test.test11.executor": "Run",
+    "JUnit.Stu1Test.test2.executor": "Run",
+    "JUnit.Stu1Test.test34.executor": "Run",
+    "JUnit.Stu1Test.test35.executor": "Run",
+    "JUnit.TestList.test.executor": "Run",
+    "JUnit.TestList.test2.executor": "Run",
+    "JUnit.TestList.test3.executor": "Run",
+    "JUnit.TestList.test4.executor": "Run",
+    "Maven.day [clean].executor": "Run",
+    "Maven.onedayone [clean].executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Java Preview Features": "预览 Java 语言级别可能会中断",
+    "Notification.DoNotAsk-Java Preview Features": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javacode/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.27471265",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Ab.executor": "Run",
+    "应用程序.BstTree.executor": "Run",
+    "应用程序.ChildStreamStu.executor": "Run",
+    "应用程序.ClassStreamStu.executor": "Run",
+    "应用程序.D03L1578.executor": "Debug",
+    "应用程序.D251025L1716.executor": "Run",
+    "应用程序.D251027L2125.executor": "Run",
+    "应用程序.D29L0756.executor": "Run",
+    "应用程序.E03Leetcode19.executor": "Run",
+    "应用程序.E03MidToAfter.executor": "Run",
+    "应用程序.E06Code203.executor": "Run",
+    "应用程序.Hanoi.executor": "Run",
+    "应用程序.L1343.executor": "Run",
+    "应用程序.L1423.executor": "Run",
+    "应用程序.L2379.executor": "Run",
+    "应用程序.L2841.executor": "Run",
+    "应用程序.L3679.executor": "Run",
+    "应用程序.L643.executor": "Run",
+    "应用程序.Leetcode1.executor": "Run",
+    "应用程序.Leetcode1008.executor": "Run",
+    "应用程序.Leetcode101.executor": "Run",
+    "应用程序.Leetcode102.executor": "Debug",
+    "应用程序.Leetcode104.executor": "Run",
+    "应用程序.Leetcode108.executor": "Debug",
+    "应用程序.Leetcode118.executor": "Run",
+    "应用程序.Leetcode125.executor": "Run",
+    "应用程序.Leetcode128.executor": "Run",
+    "应用程序.Leetcode131.executor": "Run",
+    "应用程序.Leetcode1353.executor": "Run",
+    "应用程序.Leetcode136.executor": "Run",
+    "应用程序.Leetcode139.executor": "Run",
+    "应用程序.Leetcode1422.executor": "Run",
+    "应用程序.Leetcode146.executor": "Run",
+    "应用程序.Leetcode1470.executor": "Run",
+    "应用程序.Leetcode148.executor": "Run",
+    "应用程序.Leetcode15.executor": "Debug",
+    "应用程序.Leetcode155.executor": "Run",
+    "应用程序.Leetcode17.executor": "Run",
+    "应用程序.Leetcode19.executor": "Run",
+    "应用程序.Leetcode198.executor": "Run",
+    "应用程序.Leetcode20.executor": "Run",
+    "应用程序.Leetcode206.executor": "Run",
+    "应用程序.Leetcode2099.executor": "Run",
+    "应用程序.Leetcode21.executor": "Run",
+    "应用程序.Leetcode215.executor": "Run",
+    "应用程序.Leetcode22.executor": "Run",
+    "应用程序.Leetcode226.executor": "Run",
+    "应用程序.Leetcode23.executor": "Run",
+    "应用程序.Leetcode232.executor": "Run",
+    "应用程序.Leetcode234.executor": "Run",
+    "应用程序.Leetcode239.executor": "Run",
+    "应用程序.Leetcode263.executor": "Run",
+    "应用程序.Leetcode2711.executor": "Run",
+    "应用程序.Leetcode283.executor": "Run",
+    "应用程序.Leetcode295.executor": "Run",
+    "应用程序.Leetcode3.executor": "Run",
+    "应用程序.Leetcode300.executor": "Run",
+    "应用程序.Leetcode322.executor": "Debug",
+    "应用程序.Leetcode326.executor": "Run",
+    "应用程序.Leetcode33.executor": "Run",
+    "应用程序.Leetcode3304.executor": "Run",
+    "应用程序.Leetcode3330.executor": "Run",
+    "应用程序.Leetcode3333.executor": "Run",
+    "应用程序.Leetcode347.executor": "Run",
+    "应用程序.Leetcode394.executor": "Run",
+    "应用程序.Leetcode42.executor": "Run",
+    "应用程序.Leetcode438.executor": "Run",
+    "应用程序.Leetcode45.executor": "Run",
+    "应用程序.Leetcode48.executor": "Run",
+    "应用程序.Leetcode49.executor": "Run",
+    "应用程序.Leetcode498.executor": "Run",
+    "应用程序.Leetcode5.executor": "Run",
+    "应用程序.Leetcode53.executor": "Run",
+    "应用程序.Leetcode55.executor": "Debug",
+    "应用程序.Leetcode560.executor": "Run",
+    "应用程序.Leetcode70.executor": "Run",
+    "应用程序.Leetcode703.executor": "Run",
+    "应用程序.Leetcode739.executor": "Run",
+    "应用程序.Leetcode74.executor": "Debug",
+    "应用程序.Leetcode78.executor": "Run",
+    "应用程序.Leetcode79.executor": "Run",
+    "应用程序.Leetcode82.executor": "Run",
+    "应用程序.Leetcode83.executor": "Run",
+    "应用程序.Leetcode867.executor": "Run",
+    "应用程序.Leetcode88.executor": "Run",
+    "应用程序.Leetcode904.executor": "Debug",
+    "应用程序.LeetcodeLCR036.executor": "Run",
+    "应用程序.ListStreamStu.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MaxHeap.executor": "Run",
+    "应用程序.T01L0003.executor": "Run",
+    "应用程序.T02L1052.executor": "Run",
+    "应用程序.T03L1493.executor": "Run",
+    "应用程序.T03L3439.executor": "Run",
+    "应用程序.T04L3634.executor": "Run",
+    "应用程序.T04L3694.executor": "Run",
+    "应用程序.T06L0904.executor": "Run",
+    "应用程序.T06L1652.executor": "Run",
+    "应用程序.T07L1695.executor": "Run",
+    "应用程序.T08L2958.executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.Test1512.executor": "Run",
+    "应用程序.TestPriorityQueue1.executor": "Run",
+    "应用程序.TestPriorityQueue2.executor": "Run",
+    "应用程序.TestPriorityQueue3.executor": "Run",
+    "应用程序.TestThreadUnsafe.executor": "Debug",
+    "应用程序.TreeNode.executor": "Run",
+    "应用程序.UnderToTree.executor": "Run",
+    "应用程序.YanHui.executor": "Run",
+    "应用程序.com.dai.stack0zhan.Test.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javacode\leetcode\code1\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dai.e2searchtree" />
+      <recent name="com.dai.e1treenode" />
+      <recent name="com.dai.d9heap" />
+      <recent name="com.dai.priorityqueue" />
+      <recent name="com.dai.priorityQueue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.T08L2958">
+    <configuration name="T03L1493" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T03L1493" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T04L3634" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T04L3634" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T06L0904" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T06L0904" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T07L1695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T07L1695" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T08L2958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T08L2958" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.T08L2958" />
+        <item itemvalue="应用程序.T07L1695" />
+        <item itemvalue="应用程序.T06L0904" />
+        <item itemvalue="应用程序.T04L3634" />
+        <item itemvalue="应用程序.T03L1493" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="" />
+      <created>1722085636740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722085636740</updated>
+      <workItem from="1722085637793" duration="291000" />
+      <workItem from="1722155465808" duration="1356000" />
+      <workItem from="1722429782889" duration="2882000" />
+      <workItem from="1722500400306" duration="4495000" />
+      <workItem from="1722506787805" duration="24000" />
+      <workItem from="1722507091255" duration="1755000" />
+      <workItem from="1722515301624" duration="1183000" />
+      <workItem from="1722564124168" duration="1577000" />
+      <workItem from="1722586252929" duration="5346000" />
+      <workItem from="1722605504528" duration="17000" />
+      <workItem from="1722607456246" duration="10000" />
+      <workItem from="1722673145478" duration="12517000" />
+      <workItem from="1722736052022" duration="2428000" />
+      <workItem from="1722783033043" duration="482000" />
+      <workItem from="1722946895737" duration="5917000" />
+      <workItem from="1722992503921" duration="12769000" />
+      <workItem from="1723086277789" duration="4193000" />
+      <workItem from="1723201437645" duration="9216000" />
+      <workItem from="1723255033172" duration="7024000" />
+      <workItem from="1723622861348" duration="5758000" />
+      <workItem from="1723712671739" duration="2574000" />
+      <workItem from="1725011539165" duration="40000" />
+      <workItem from="1725089996472" duration="31000" />
+      <workItem from="1725192607986" duration="2537000" />
+      <workItem from="1725697507890" duration="6839000" />
+      <workItem from="1726120774664" duration="5765000" />
+      <workItem from="1726146128779" duration="5179000" />
+      <workItem from="1726199503289" duration="15395000" />
+      <workItem from="1726311688748" duration="13219000" />
+      <workItem from="1726381908874" duration="3123000" />
+      <workItem from="1726472141390" duration="5139000" />
+      <workItem from="1726666989900" duration="3626000" />
+      <workItem from="1726752555704" duration="2290000" />
+      <workItem from="1726754878440" duration="1751000" />
+      <workItem from="1726827967816" duration="23000" />
+      <workItem from="1726839624398" duration="883000" />
+      <workItem from="1726902258323" duration="16351000" />
+      <workItem from="1726985412915" duration="17323000" />
+      <workItem from="1727068462443" duration="2880000" />
+      <workItem from="1727086762421" duration="9812000" />
+      <workItem from="1727158213289" duration="5675000" />
+      <workItem from="1727181424940" duration="8585000" />
+      <workItem from="1727190428252" duration="80000" />
+      <workItem from="1727231772793" duration="11778000" />
+      <workItem from="1727358443300" duration="4839000" />
+      <workItem from="1727427622028" duration="79000" />
+      <workItem from="1727427772061" duration="146000" />
+      <workItem from="1727428262043" duration="599000" />
+      <workItem from="1727440558155" duration="91000" />
+      <workItem from="1727440663272" duration="1228000" />
+      <workItem from="1727505431389" duration="352000" />
+      <workItem from="1740206258317" duration="1061000" />
+      <workItem from="1740222838747" duration="1393000" />
+      <workItem from="1740224554252" duration="557000" />
+      <workItem from="1740290199449" duration="2776000" />
+      <workItem from="1740373325070" duration="31000" />
+      <workItem from="1740374041337" duration="14000" />
+      <workItem from="1741087412411" duration="74000" />
+      <workItem from="1741087491582" duration="89000" />
+      <workItem from="1742881510154" duration="2631000" />
+      <workItem from="1742884924239" duration="620000" />
+      <workItem from="1742905251055" duration="602000" />
+      <workItem from="1743050578193" duration="927000" />
+      <workItem from="1743051835760" duration="398000" />
+      <workItem from="1743052430368" duration="674000" />
+      <workItem from="1743053147521" duration="4665000" />
+      <workItem from="1743161639485" duration="260000" />
+      <workItem from="1743248154867" duration="3422000" />
+      <workItem from="1743431027045" duration="5049000" />
+      <workItem from="1743483146013" duration="3440000" />
+      <workItem from="1743494089865" duration="2011000" />
+      <workItem from="1743504163968" duration="3630000" />
+      <workItem from="1743518315675" duration="1606000" />
+      <workItem from="1744797054630" duration="24000" />
+      <workItem from="1744798248721" duration="225000" />
+      <workItem from="1745060237423" duration="6785000" />
+      <workItem from="1745498663599" duration="6000" />
+      <workItem from="1745568004904" duration="397000" />
+      <workItem from="1745826378807" duration="2000" />
+      <workItem from="1745830851532" duration="54000" />
+      <workItem from="1746874734884" duration="7443000" />
+      <workItem from="1747025341706" duration="28000" />
+      <workItem from="1747883469189" duration="1051000" />
+      <workItem from="1748007358093" duration="6000" />
+      <workItem from="1748082546116" duration="2093000" />
+      <workItem from="1748084926744" duration="487000" />
+      <workItem from="1748085589998" duration="2307000" />
+      <workItem from="1748241645851" duration="38000" />
+      <workItem from="1751358717541" duration="2180000" />
+      <workItem from="1751360977673" duration="242000" />
+      <workItem from="1751363543428" duration="3712000" />
+      <workItem from="1751435286493" duration="1582000" />
+      <workItem from="1751437047066" duration="9000" />
+      <workItem from="1751440183005" duration="4015000" />
+      <workItem from="1751456830125" duration="179000" />
+      <workItem from="1751527467029" duration="1595000" />
+      <workItem from="1751530165408" duration="4000" />
+      <workItem from="1751541614333" duration="1055000" />
+      <workItem from="1751543007396" duration="3000" />
+      <workItem from="1751723446763" duration="970000" />
+      <workItem from="1751779077133" duration="764000" />
+      <workItem from="1751871135773" duration="3144000" />
+      <workItem from="1751889236396" duration="3000" />
+      <workItem from="1752999761570" duration="7722000" />
+      <workItem from="1753070055287" duration="2801000" />
+      <workItem from="1753079716466" duration="2009000" />
+      <workItem from="1753091507270" duration="1197000" />
+      <workItem from="1753169677997" duration="4324000" />
+      <workItem from="1753200705598" duration="1435000" />
+      <workItem from="1753252263068" duration="2803000" />
+      <workItem from="1753261405334" duration="4556000" />
+      <workItem from="1753339522033" duration="5798000" />
+      <workItem from="1753366831410" duration="3509000" />
+      <workItem from="1753430656042" duration="1889000" />
+      <workItem from="1753433320718" duration="3471000" />
+      <workItem from="1753447463036" duration="6129000" />
+      <workItem from="1753480280429" duration="2945000" />
+      <workItem from="1753507835789" duration="15049000" />
+      <workItem from="1753552869805" duration="2011000" />
+      <workItem from="1753596716990" duration="23732000" />
+      <workItem from="1753638299129" duration="1311000" />
+      <workItem from="1753686130078" duration="6034000" />
+      <workItem from="1753735429977" duration="601000" />
+      <workItem from="1753770753598" duration="6836000" />
+      <workItem from="1754053888482" duration="2984000" />
+      <workItem from="1754239188511" duration="2050000" />
+      <workItem from="1756088838433" duration="1755000" />
+      <workItem from="1756091149522" duration="7000" />
+      <workItem from="1756346944533" duration="2557000" />
+      <workItem from="1756373956110" duration="1121000" />
+      <workItem from="1756452346040" duration="1819000" />
+      <workItem from="1756715308639" duration="4469000" />
+      <workItem from="1756776871538" duration="8315000" />
+      <workItem from="1756964092555" duration="5774000" />
+      <workItem from="1758352430771" duration="4000" />
+      <workItem from="1760698977680" duration="3766000" />
+      <workItem from="1761229209858" duration="2604000" />
+      <workItem from="1761324111327" duration="1525000" />
+      <workItem from="1761483500835" duration="576000" />
+      <workItem from="1761542384028" duration="1190000" />
+      <workItem from="1761548795399" duration="1313000" />
+      <workItem from="1761638343463" duration="1012000" />
+      <workItem from="1761917804098" duration="718000" />
+      <workItem from="1761970577734" duration="1022000" />
+      <workItem from="1762010112509" duration="15000" />
+      <workItem from="1762146784875" duration="2182000" />
+      <workItem from="1762250994887" duration="493000" />
+      <workItem from="1762923590038" duration="8000" />
+      <workItem from="1763372300297" duration="15000" />
+      <workItem from="1766975103281" duration="5447000" />
+      <workItem from="1766992168088" duration="97000" />
+      <workItem from="1767083177575" duration="2866000" />
+      <workItem from="1767143014791" duration="967000" />
+      <workItem from="1767146029995" duration="177000" />
+      <workItem from="1767151125389" duration="684000" />
+      <workItem from="1767419226428" duration="2435000" />
+      <workItem from="1767422875625" duration="1298000" />
+      <workItem from="1767428810856" duration="1838000" />
+      <workItem from="1767510677282" duration="2157000" />
+      <workItem from="1768787661094" duration="15653000" />
+      <workItem from="1768811924397" duration="2744000" />
+      <workItem from="1768869240409" duration="7581000" />
+      <workItem from="1769256311807" duration="204000" />
+      <workItem from="1769741286989" duration="10519000" />
+      <workItem from="1769855759422" duration="323000" />
+      <workItem from="1769857104106" duration="16000" />
+      <workItem from="1769859873399" duration="1040000" />
+      <workItem from="1769959534759" duration="387000" />
+      <workItem from="1769959939850" duration="812000" />
+      <workItem from="1769960767639" duration="111000" />
+      <workItem from="1769999071123" duration="256000" />
+      <workItem from="1770001158823" duration="346000" />
+      <workItem from="1770001611027" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/SinglyLinkedList.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day03/Reverse.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode240.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode904.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode17.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode79.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode74.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode33.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode394.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode347.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode55.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode70.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode198.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode136.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode139.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/acha/src/main/java/a02hchszz/b01dcck/c01base/L2379.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/DoubleLinkedList.java</url>
+          <line>95</line>
+          <properties class="com.dai.day02.DoubleLinkedList" method="findNode">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode155.java</url>
+          <line>39</line>
+          <properties class="com.day001.Leetcode155" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode5.java</url>
+          <line>39</line>
+          <properties class="com.day001.Leetcode5" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$Main.ic" NAME="Main 覆盖结果" MODIFIED="1743504913941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>acmClass.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
