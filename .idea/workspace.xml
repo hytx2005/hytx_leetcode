@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.2/添加md文件">
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T01L0344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T02L3794.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T03L2000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T04L3643.java" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.2/反转字符串">
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T05L0541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T06L0557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T07L0151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T08L3775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T09L0917.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T10L0345.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,7 @@
     &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.27471265&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;swagger&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.Ab.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.BstTree.executor&quot;: &quot;Run&quot;,
@@ -183,8 +185,10 @@
     &quot;应用程序.T03L3439.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T04L3634.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T04L3694.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06L0557.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T06L0904.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T06L1652.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T07L0151.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T07L1695.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T08L2958.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
@@ -216,26 +220,13 @@
       <recent name="com.dai.priorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.T08L2958">
-    <configuration name="T03L1493" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T03L1493" />
+  <component name="RunManager" selected="应用程序.T07L0151">
+    <configuration name="T06L0557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b03dxlszz.c01fzzfc.T06L0557" />
       <module name="acha" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T04L3634" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a02hchszz.b02bdcck.c01base.T04L3634" />
-      <module name="acha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="PATTERN" value="a02hchszz.b03dxlszz.c01fzzfc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,6 +240,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="a02hchszz.b02bdcck.c01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T07L0151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b03dxlszz.c01fzzfc.T07L0151" />
+      <module name="acha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02hchszz.b03dxlszz.c01fzzfc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.T07L0151" />
+        <item itemvalue="应用程序.T06L0557" />
         <item itemvalue="应用程序.T08L2958" />
         <item itemvalue="应用程序.T07L1695" />
         <item itemvalue="应用程序.T06L0904" />
-        <item itemvalue="应用程序.T04L3634" />
-        <item itemvalue="应用程序.T03L1493" />
       </list>
     </recent_temporary>
   </component>
@@ -485,6 +489,13 @@
       <workItem from="1770014154922" duration="1895000" />
       <workItem from="1770018053823" duration="3955000" />
       <workItem from="1770035637732" duration="2000" />
+      <workItem from="1770044944341" duration="238000" />
+      <workItem from="1770083672181" duration="1654000" />
+      <workItem from="1770085578280" duration="4534000" />
+      <workItem from="1770100388508" duration="694000" />
+      <workItem from="1770101094620" duration="4347000" />
+      <workItem from="1770110403218" duration="9000" />
+      <workItem from="1770119975207" duration="1714000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -502,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770003980068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2026.2.2/反转字符串">
+      <option name="closed" value="true" />
+      <created>1770045176822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770045176822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +541,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2026.2.2初始化" />
     <MESSAGE value="2026.2.2/添加md文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.2.2/添加md文件" />
+    <MESSAGE value="2026.2.2/反转字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.2.2/反转字符串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
