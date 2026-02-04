@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.2/反转字符串">
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T05L0541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T06L0557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T07L0151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T08L3775.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T09L0917.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c01fzzfc/T10L0345.java" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.4/ L0125 验证回文串">
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T03L1750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T04L2105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T05L0977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T06L0658.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T07L1471.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T08L0167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T09L0633.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/相向双指针.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +187,7 @@
     &quot;应用程序.T03L3439.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T04L3634.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T04L3694.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T05L0658.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T06L0557.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T06L0904.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.T06L1652.executor&quot;: &quot;Run&quot;,
@@ -220,13 +223,13 @@
       <recent name="com.dai.priorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.T07L0151">
-    <configuration name="T06L0557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a02hchszz.b03dxlszz.c01fzzfc.T06L0557" />
+  <component name="RunManager" selected="应用程序.T06L0658">
+    <configuration name="T06L0658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02hchszz.b03dxlszz.c02xxszz.T06L0658" />
       <module name="acha" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a02hchszz.b03dxlszz.c01fzzfc.*" />
+          <option name="PATTERN" value="a02hchszz.b03dxlszz.c02xxszz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,10 +291,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.T07L0151" />
-        <item itemvalue="应用程序.T06L0557" />
+        <item itemvalue="应用程序.T06L0658" />
         <item itemvalue="应用程序.T08L2958" />
         <item itemvalue="应用程序.T07L1695" />
+        <item itemvalue="应用程序.T07L0151" />
         <item itemvalue="应用程序.T06L0904" />
       </list>
     </recent_temporary>
@@ -496,6 +499,16 @@
       <workItem from="1770101094620" duration="4347000" />
       <workItem from="1770110403218" duration="9000" />
       <workItem from="1770119975207" duration="1714000" />
+      <workItem from="1770126212554" duration="389000" />
+      <workItem from="1770170387697" duration="2821000" />
+      <workItem from="1770174192993" duration="2247000" />
+      <workItem from="1770176498503" duration="943000" />
+      <workItem from="1770186575260" duration="1272000" />
+      <workItem from="1770188063705" duration="337000" />
+      <workItem from="1770188416468" duration="2171000" />
+      <workItem from="1770191118456" duration="1064000" />
+      <workItem from="1770192991092" duration="3452000" />
+      <workItem from="1770210190991" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -521,7 +534,31 @@
       <option name="project" value="LOCAL" />
       <updated>1770045176822</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2026.2.3/反转字符串完成 + 相向双指针开启">
+      <option name="closed" value="true" />
+      <created>1770126393264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126393264</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2026.2.4/ L0125 验证回文串">
+      <option name="closed" value="true" />
+      <created>1770173306685</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770173306685</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2026.2.4/ L0125 验证回文串">
+      <option name="closed" value="true" />
+      <created>1770173354411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770173354411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +579,9 @@
     <MESSAGE value="2026.2.2初始化" />
     <MESSAGE value="2026.2.2/添加md文件" />
     <MESSAGE value="2026.2.2/反转字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.2.2/反转字符串" />
+    <MESSAGE value="2026.2.3/反转字符串完成 + 相向双指针开启" />
+    <MESSAGE value="2026.2.4/ L0125 验证回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.2.4/ L0125 验证回文串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,10 +666,15 @@
           <line>5</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T06L0658.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/DoubleLinkedList.java</url>
           <line>95</line>
-          <properties class="com.dai.day02.DoubleLinkedList" method="findNode">
+          <properties class="com.dai.day02.DoubleLinkedList">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -639,7 +683,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode155.java</url>
           <line>39</line>
-          <properties class="com.day001.Leetcode155" method="main">
+          <properties class="com.day001.Leetcode155">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -648,7 +692,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/code1/src/main/java/com/day001/Leetcode5.java</url>
           <line>39</line>
-          <properties class="com.day001.Leetcode5" method="main">
+          <properties class="com.day001.Leetcode5">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
