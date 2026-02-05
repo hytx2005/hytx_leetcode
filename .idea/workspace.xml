@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.4/ L0125 验证回文串">
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T03L1750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T04L2105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T05L0977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T06L0658.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T07L1471.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T08L0167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T09L0633.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/相向双指针.md" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.2.4/ 结束相向双指针，例题过多，不一一做">
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c03txszz/T01L2200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c03txszz/T02L661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c03txszz/同向双指针.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T10L2824.java" beforeDir="false" afterPath="$PROJECT_DIR$/acha/src/main/java/a02hchszz/b03dxlszz/c02xxszz/T10L2824.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -508,7 +504,10 @@
       <workItem from="1770188416468" duration="2171000" />
       <workItem from="1770191118456" duration="1064000" />
       <workItem from="1770192991092" duration="3452000" />
-      <workItem from="1770210190991" duration="616000" />
+      <workItem from="1770210190991" duration="746000" />
+      <workItem from="1770213309053" duration="4000" />
+      <workItem from="1770277501401" duration="172000" />
+      <workItem from="1770278543600" duration="4087000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -558,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770173354411</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2026.2.4/ 结束相向双指针，例题过多，不一一做">
+      <option name="closed" value="true" />
+      <created>1770210922420</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770210922420</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +588,8 @@
     <MESSAGE value="2026.2.2/反转字符串" />
     <MESSAGE value="2026.2.3/反转字符串完成 + 相向双指针开启" />
     <MESSAGE value="2026.2.4/ L0125 验证回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.2.4/ L0125 验证回文串" />
+    <MESSAGE value="2026.2.4/ 结束相向双指针，例题过多，不一一做" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.2.4/ 结束相向双指针，例题过多，不一一做" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

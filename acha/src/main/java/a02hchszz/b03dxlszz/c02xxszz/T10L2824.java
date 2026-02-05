@@ -18,6 +18,7 @@ class T10L2824 {
                 right--;
             }
         }
+
         return res;
     }
 }
