@@ -1,4 +1,4 @@
-package a02hchszz.b02bdcck.c01base;
+package a02hchszz.b02bdcck.c01ydyhf.d01base;
 
 public class T05L1208 {
     public int equalSubstring(String s, String t, int maxCost) {

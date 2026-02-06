@@ -1,4 +1,4 @@
-package a02hchszz.b02bdcck.c01base;
+package a02hchszz.b02bdcck.c01ydyhf.d01base;
 
  class T03L1493 {
     public int longestSubarray(int[] nums) {

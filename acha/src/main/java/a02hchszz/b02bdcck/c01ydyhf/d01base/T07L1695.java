@@ -1,4 +1,4 @@
-package a02hchszz.b02bdcck.c01base;
+package a02hchszz.b02bdcck.c01ydyhf.d01base;
 
  class T07L1695 {
      public int maximumUniqueSubarray(int[] nums) {

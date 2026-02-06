@@ -1,6 +1,4 @@
-package a02hchszz.b02bdcck.c01base;
-
-import java.util.Arrays;
+package a02hchszz.b02bdcck.c01ydyhf.d01base;
 
 class T06L0904 {
     public int totalFruit(int[] fruits) {
