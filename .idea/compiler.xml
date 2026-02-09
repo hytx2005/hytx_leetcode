@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="week" />
         <module name="hot100" />
+        <module name="shenmowange" />
         <module name="onedayone" />
         <module name="acha" />
       </profile>
