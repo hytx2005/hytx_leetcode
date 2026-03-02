@@ -5,47 +5,39 @@ import java.util.*;
  * @author ASUS
  */
 public class Main implements Serializable{
-    public class Student implements Comparable<Student>{
-        public String name;
-
-
-        @Override
-        public int compareTo(Student other) {
-            return other.name.compareTo(this.name);
-        }
-
-        @Override
-        public int hashCode() {
-            return name.hashCode();
-        }
-
-        @Override
-        public boolean equals(Object object) {
-            if (this == object) {
-                return true;
+    // 得到第k小的元素
+    public static int getKthNums(int[] nums1,int[] nums2,int k){
+        int index1 = 0,index2 = 0;// 分别记录nums1和nums2的左边界
+        int l1 = nums1.length,l2 = nums2.length;
+        while(true){
+            System.out.println("index1=" + index1 + ", index2=" + index2 + ", k=" + k);
+            if(index1 == nums1.length){
+                return nums2[index2+k-1];
             }
-            if (object == null || getClass() != object.getClass()) {
-                return false;
+            if(index2 == nums2.length){
+                return nums1[index1+k-1];
             }
-            Student student = (Student) object;
-            return Objects.equals(name, student.name);
+            if(k == 1){
+                return Math.min(nums1[index1],nums2[index2]);
+            }
+
+            int mid1 = (k / 2) + index1;
+            int mid2 = (k / 2) + index2;
+            int newIndex1 = Math.min(mid1,l1) - 1;
+            int newIndex2 = Math.min(mid2,l2) - 1;
+            if(nums1[newIndex1] > nums2[newIndex2]){
+                k-=newIndex2-index2+1;
+                index2 = newIndex2+1;
+            }else{
+                k-=newIndex1-index1+1;
+                index1 = newIndex1+1;
+            }
         }
     }
     public static void main(String[] args) {
-        TreeSet<Student> set = new TreeSet<>(new Comparator<Student>() {
-            @Override
-            public int compare(Student o1, Student o2) {
-                return o1.name.compareTo(o2.name);
-            }
-        });
-        Student s1 = new Main().new Student();
-        s1.name = "Alice";
-        Student s2 = new Main().new Student();
-        s2.name = "Bob";
-        set.add(s1);
-        set.add(s2);
-        for (Student student : set) {
-            System.out.println(student.name);
-        }
+        int[] nums1 = {1,3};
+        int[] nums2 = {2};
+        int k = 5;
+        System.out.println(getKthNums(nums1, nums2, 2));
     }
 }

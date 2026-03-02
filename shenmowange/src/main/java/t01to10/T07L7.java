@@ -3,9 +3,9 @@ package t01to10;
 /**
  * 整数反转 <a href="https://leetcode.cn/problems/reverse-integer/description/">...</a>
  * @author Dai
- * @date 2026/02/10
+ * &#064;date  2026/02/10
  */
-class T07L07 {
+class T07L7 {
     /**
      * 模拟 时间复杂度 O(n)
      * @param x
