@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.02 leetcode面试150 01-05">
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T06L189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T07L121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T08L122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T09L55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T10L45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T11L274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T12L380.java" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.03 leetcode面试150 06-12">
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T13L238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T14L134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T15L135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T16L13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T17L12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/java/shuzuAndzifuchuang/T18L58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/resources/临时sql/tmp.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/resources/临时sql/查询不属于指定二级企业的企业组织编码.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150/src/main/resources/临时sql/计算凭证数量.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +39,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="无" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -551,7 +551,10 @@
       <workItem from="1772453538245" duration="1730000" />
       <workItem from="1772498276592" duration="4000" />
       <workItem from="1772507005106" duration="6096000" />
-      <workItem from="1772535906168" duration="2284000" />
+      <workItem from="1772535906168" duration="2367000" />
+      <workItem from="1772591439294" duration="5000" />
+      <workItem from="1772594700805" duration="1928000" />
+      <workItem from="1772623645145" duration="3635000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -665,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772457640933</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2026.03.03 leetcode面试150 06-12">
+      <option name="closed" value="true" />
+      <created>1772545649872</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772545649872</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,7 +707,8 @@
     <MESSAGE value="2026.2.9 t01-t04" />
     <MESSAGE value="2026.2.10 t05-t07" />
     <MESSAGE value="2026.03.02 leetcode面试150 01-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.02 leetcode面试150 01-05" />
+    <MESSAGE value="2026.03.03 leetcode面试150 06-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.03 leetcode面试150 06-12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
