@@ -1,6 +1,6 @@
 package shuzuAndzifuchuang;
 
-public class T17L12 {
+public class T18L12 {
 
     // Use arrays ordered from largest to smallest. Avoid mutation of immutable lists.
     private static final String[] SYMBOLS = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};

@@ -1,6 +1,6 @@
 package shuzuAndzifuchuang;
 
-public class T18L58 {
+public class T19L58 {
     public int lengthOfLastWord(String s) {
         String trim = s.trim();
         char[] tc = trim.toCharArray();
