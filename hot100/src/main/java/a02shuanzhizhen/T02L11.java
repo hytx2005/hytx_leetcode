@@ -1,4 +1,4 @@
-package shuanzhizhen;
+package a02shuanzhizhen;
 
 public class T02L11 {
     public int maxArea(int[] height) {

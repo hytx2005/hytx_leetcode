@@ -1,4 +1,4 @@
-package hash;
+package a01hash;
 
 import java.util.HashMap;
 import java.util.Map;

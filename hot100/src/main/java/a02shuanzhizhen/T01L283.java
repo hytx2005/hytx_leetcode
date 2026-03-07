@@ -1,4 +1,4 @@
-package shuanzhizhen;
+package a02shuanzhizhen;
 
 public class T01L283 {
     public void moveZeroes(int[] nums) {
