@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="hot100 哈希+双指针">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/T03L15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/T04L42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a03huadongchuangkou/T01L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a03huadongchuangkou/T02L438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a03huadongchuangkou/滑动窗口.md" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.07 指针">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a04zichuang/T02L239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a04zichuang/T03L76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T01L53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T02L56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T03L189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T04L238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T05L41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/普通数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/hash/T01L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a01hash/T01L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/hash/T02L49.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a01hash/T02L49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/hash/T03L128.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a01hash/T03L128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/hash/哈希表.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a01hash/哈希表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/shuanzhizhen/T01L283.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/T01L283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/shuanzhizhen/T02L11.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/T02L11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/shuanzhizhen/双指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/双指针.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +188,18 @@
     "应用程序.T01L0003.executor": "Run",
     "应用程序.T01L3.executor": "Run",
     "应用程序.T02L1052.executor": "Run",
+    "应用程序.T02L239.executor": "Run",
     "应用程序.T02L3258.executor": "Run",
     "应用程序.T02L3795.executor": "Run",
     "应用程序.T02L438.executor": "Run",
     "应用程序.T02L49.executor": "Debug",
+    "应用程序.T02L56.executor": "Run",
     "应用程序.T03L1493.executor": "Run",
     "应用程序.T03L15.executor": "Debug",
+    "应用程序.T03L189.executor": "Debug",
     "应用程序.T03L3439.executor": "Run",
+    "应用程序.T03L76.executor": "Run",
+    "应用程序.T04L238.executor": "Run",
     "应用程序.T04L3634.executor": "Run",
     "应用程序.T04L3694.executor": "Run",
     "应用程序.T04L4.executor": "Run",
@@ -243,13 +243,13 @@
       <recent name="com.dai.priorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.T02L438">
-    <configuration name="T01L3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a03huadongchuangkou.T01L3" />
+  <component name="RunManager" selected="应用程序.T04L238">
+    <configuration name="T02L239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a04zichuang.T02L239" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a03huadongchuangkou.*" />
+          <option name="PATTERN" value="a04zichuang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T02L438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a03huadongchuangkou.T02L438" />
+    <configuration name="T02L56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T02L56" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a03huadongchuangkou.*" />
+          <option name="PATTERN" value="a05shuzhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T02L49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a01hash.T02L49" />
+    <configuration name="T03L189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T03L189" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a01hash.*" />
+          <option name="PATTERN" value="a05shuzhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T03L15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a02shuanzhizhen.T03L15" />
+    <configuration name="T03L76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a04zichuang.T03L76" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a02shuanzhizhen.*" />
+          <option name="PATTERN" value="a04zichuang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T04L80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shuzuAndzifuchuang.T04L80" />
-      <module name="mianshi150" />
+    <configuration name="T04L238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T04L238" />
+      <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shuzuAndzifuchuang.*" />
+          <option name="PATTERN" value="a05shuzhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.T02L438" />
-        <item itemvalue="应用程序.T01L3" />
-        <item itemvalue="应用程序.T03L15" />
-        <item itemvalue="应用程序.T02L49" />
-        <item itemvalue="应用程序.T04L80" />
+        <item itemvalue="应用程序.T04L238" />
+        <item itemvalue="应用程序.T03L189" />
+        <item itemvalue="应用程序.T02L56" />
+        <item itemvalue="应用程序.T03L76" />
+        <item itemvalue="应用程序.T02L239" />
       </list>
     </recent_temporary>
   </component>
@@ -572,7 +572,9 @@
       <workItem from="1772766105743" duration="6615000" />
       <workItem from="1772795530111" duration="40000" />
       <workItem from="1772851833808" duration="5000" />
-      <workItem from="1772870658994" duration="5922000" />
+      <workItem from="1772870658994" duration="9525000" />
+      <workItem from="1772891934946" duration="107000" />
+      <workItem from="1772947662641" duration="8373000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -702,7 +704,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772795564388</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2026.03.07 双指针+滑动窗口">
+      <option name="closed" value="true" />
+      <created>1772880385815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772880385815</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2026.03.07 指针">
+      <option name="closed" value="true" />
+      <created>1772883686012</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772883686012</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -747,7 +765,9 @@
     <MESSAGE value="2026.03.02 leetcode面试150 01-05" />
     <MESSAGE value="2026.03.03 leetcode面试150 06-12" />
     <MESSAGE value="hot100 哈希+双指针" />
-    <option name="LAST_COMMIT_MESSAGE" value="hot100 哈希+双指针" />
+    <MESSAGE value="2026.03.07 双指针+滑动窗口" />
+    <MESSAGE value="2026.03.07 指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.07 指针" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -856,6 +876,16 @@
           <url>file://$PROJECT_DIR$/hot100/src/main/java/a02shuanzhizhen/T03L15.java</url>
           <line>35</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/main/java/a04zichuang/T03L76.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/main/java/a05shuzhu/T04L238.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/DoubleLinkedList.java</url>
