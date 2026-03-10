@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.08 子串+数组">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a06juzheng/T01L73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a06juzheng/T02L54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a06juzheng/T03L48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a06juzheng/T04L240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a06juzheng/矩阵.md" afterDir="false" />
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.09 矩阵">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T01L160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T02L206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T03L234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T04L141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T05L142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T06L21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T07L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T08L19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T09L24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T10L25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/base/ListNode.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,187 +55,192 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayDequeTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode189.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode240.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Leetcode39.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListDequeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.T05L5.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test11.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test34.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Stu1Test.test35.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestList.test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestList.test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestList.test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestList.test4.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.acha [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.day [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.hot100 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.onedayone [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.shenmowange [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.week [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Java Preview Features&quot;: &quot;预览 Java 语言级别可能会中断&quot;,
-    &quot;Notification.DoNotAsk-Java Preview Features&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.27471265&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.network.NetworkConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Ab.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BstTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ChildStreamStu.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ClassStreamStu.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D03L1578.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.D251025L1716.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D251027L2125.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D29L0756.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.E03Leetcode19.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.E03MidToAfter.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.E06Code203.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Hanoi.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L1343.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L1423.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L2379.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L2841.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L3679.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L643.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode1008.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode101.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode102.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode104.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode108.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode118.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode125.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode128.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode131.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode1353.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode136.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode139.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode1422.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode146.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode1470.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode148.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode15.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode155.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode17.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode19.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode198.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode20.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode206.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode2099.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode21.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode215.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode22.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode226.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode23.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode232.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode234.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode239.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode263.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode2711.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode283.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode295.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode300.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode322.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode326.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode33.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode3304.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode3330.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode3333.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode347.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode394.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode42.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode438.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode45.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode48.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode49.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode498.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode53.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode55.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode560.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode70.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode703.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode739.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode74.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Leetcode78.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode79.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode82.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode83.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode867.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode88.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Leetcode904.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.LeetcodeLCR036.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ListStreamStu.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.MaxHeap.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T01L0003.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T01L3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L1052.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L239.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L3258.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L3795.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L438.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L49.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T02L56.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T03L1493.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T03L15.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L189.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L3439.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T03L76.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L238.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L3634.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L3694.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L80.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T05L0658.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L0557.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L0904.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L1652.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T07L0151.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T07L07.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T07L1695.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T08L2958.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T10L10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test1512.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestPriorityQueue1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestPriorityQueue2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestPriorityQueue3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestThreadUnsafe.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.TreeNode.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.UnderToTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.YanHui.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.dai.stack0zhan.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayDequeTest1.executor": "Run",
+    "Application.Leetcode189.executor": "Run",
+    "Application.Leetcode240.executor": "Debug",
+    "Application.Leetcode39.executor": "Run",
+    "Application.LinkedListDequeTest.executor": "Run",
+    "Application.T05L5.executor": "Run",
+    "JUnit.Stu1Test.test.executor": "Run",
+    "JUnit.Stu1Test.test1.executor": "Run",
+    "JUnit.Stu1Test.test11.executor": "Run",
+    "JUnit.Stu1Test.test2.executor": "Run",
+    "JUnit.Stu1Test.test34.executor": "Run",
+    "JUnit.Stu1Test.test35.executor": "Run",
+    "JUnit.TestList.test.executor": "Run",
+    "JUnit.TestList.test2.executor": "Run",
+    "JUnit.TestList.test3.executor": "Run",
+    "JUnit.TestList.test4.executor": "Run",
+    "Maven.acha [clean].executor": "Run",
+    "Maven.day [clean].executor": "Run",
+    "Maven.hot100 [clean].executor": "Run",
+    "Maven.onedayone [clean].executor": "Run",
+    "Maven.shenmowange [clean].executor": "Run",
+    "Maven.week [clean].executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Java Preview Features": "预览 Java 语言级别可能会中断",
+    "Notification.DoNotAsk-Java Preview Features": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javacode/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.27471265",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.network.NetworkConfigurable",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Ab.executor": "Run",
+    "应用程序.BstTree.executor": "Run",
+    "应用程序.ChildStreamStu.executor": "Run",
+    "应用程序.ClassStreamStu.executor": "Run",
+    "应用程序.D03L1578.executor": "Debug",
+    "应用程序.D251025L1716.executor": "Run",
+    "应用程序.D251027L2125.executor": "Run",
+    "应用程序.D29L0756.executor": "Run",
+    "应用程序.E03Leetcode19.executor": "Run",
+    "应用程序.E03MidToAfter.executor": "Run",
+    "应用程序.E06Code203.executor": "Run",
+    "应用程序.Hanoi.executor": "Run",
+    "应用程序.L1343.executor": "Run",
+    "应用程序.L1423.executor": "Run",
+    "应用程序.L2379.executor": "Run",
+    "应用程序.L2841.executor": "Run",
+    "应用程序.L3679.executor": "Run",
+    "应用程序.L643.executor": "Run",
+    "应用程序.Leetcode1.executor": "Run",
+    "应用程序.Leetcode1008.executor": "Run",
+    "应用程序.Leetcode101.executor": "Run",
+    "应用程序.Leetcode102.executor": "Debug",
+    "应用程序.Leetcode104.executor": "Run",
+    "应用程序.Leetcode108.executor": "Debug",
+    "应用程序.Leetcode118.executor": "Run",
+    "应用程序.Leetcode125.executor": "Run",
+    "应用程序.Leetcode128.executor": "Run",
+    "应用程序.Leetcode131.executor": "Run",
+    "应用程序.Leetcode1353.executor": "Run",
+    "应用程序.Leetcode136.executor": "Run",
+    "应用程序.Leetcode139.executor": "Run",
+    "应用程序.Leetcode1422.executor": "Run",
+    "应用程序.Leetcode146.executor": "Run",
+    "应用程序.Leetcode1470.executor": "Run",
+    "应用程序.Leetcode148.executor": "Run",
+    "应用程序.Leetcode15.executor": "Debug",
+    "应用程序.Leetcode155.executor": "Run",
+    "应用程序.Leetcode17.executor": "Run",
+    "应用程序.Leetcode19.executor": "Run",
+    "应用程序.Leetcode198.executor": "Run",
+    "应用程序.Leetcode20.executor": "Run",
+    "应用程序.Leetcode206.executor": "Run",
+    "应用程序.Leetcode2099.executor": "Run",
+    "应用程序.Leetcode21.executor": "Run",
+    "应用程序.Leetcode215.executor": "Run",
+    "应用程序.Leetcode22.executor": "Run",
+    "应用程序.Leetcode226.executor": "Run",
+    "应用程序.Leetcode23.executor": "Run",
+    "应用程序.Leetcode232.executor": "Run",
+    "应用程序.Leetcode234.executor": "Run",
+    "应用程序.Leetcode239.executor": "Run",
+    "应用程序.Leetcode263.executor": "Run",
+    "应用程序.Leetcode2711.executor": "Run",
+    "应用程序.Leetcode283.executor": "Run",
+    "应用程序.Leetcode295.executor": "Run",
+    "应用程序.Leetcode3.executor": "Run",
+    "应用程序.Leetcode300.executor": "Run",
+    "应用程序.Leetcode322.executor": "Debug",
+    "应用程序.Leetcode326.executor": "Run",
+    "应用程序.Leetcode33.executor": "Run",
+    "应用程序.Leetcode3304.executor": "Run",
+    "应用程序.Leetcode3330.executor": "Run",
+    "应用程序.Leetcode3333.executor": "Run",
+    "应用程序.Leetcode347.executor": "Run",
+    "应用程序.Leetcode394.executor": "Run",
+    "应用程序.Leetcode42.executor": "Run",
+    "应用程序.Leetcode438.executor": "Run",
+    "应用程序.Leetcode45.executor": "Run",
+    "应用程序.Leetcode48.executor": "Run",
+    "应用程序.Leetcode49.executor": "Run",
+    "应用程序.Leetcode498.executor": "Run",
+    "应用程序.Leetcode5.executor": "Run",
+    "应用程序.Leetcode53.executor": "Run",
+    "应用程序.Leetcode55.executor": "Debug",
+    "应用程序.Leetcode560.executor": "Run",
+    "应用程序.Leetcode70.executor": "Run",
+    "应用程序.Leetcode703.executor": "Run",
+    "应用程序.Leetcode739.executor": "Run",
+    "应用程序.Leetcode74.executor": "Debug",
+    "应用程序.Leetcode78.executor": "Run",
+    "应用程序.Leetcode79.executor": "Run",
+    "应用程序.Leetcode82.executor": "Run",
+    "应用程序.Leetcode83.executor": "Run",
+    "应用程序.Leetcode867.executor": "Run",
+    "应用程序.Leetcode88.executor": "Run",
+    "应用程序.Leetcode904.executor": "Debug",
+    "应用程序.LeetcodeLCR036.executor": "Run",
+    "应用程序.ListStreamStu.executor": "Run",
+    "应用程序.Main.executor": "Debug",
+    "应用程序.MaxHeap.executor": "Run",
+    "应用程序.T01L0003.executor": "Run",
+    "应用程序.T01L160.executor": "Run",
+    "应用程序.T01L3.executor": "Run",
+    "应用程序.T02L1052.executor": "Run",
+    "应用程序.T02L239.executor": "Run",
+    "应用程序.T02L3258.executor": "Run",
+    "应用程序.T02L3795.executor": "Run",
+    "应用程序.T02L438.executor": "Run",
+    "应用程序.T02L49.executor": "Debug",
+    "应用程序.T02L56.executor": "Run",
+    "应用程序.T03L1493.executor": "Run",
+    "应用程序.T03L15.executor": "Debug",
+    "应用程序.T03L189.executor": "Debug",
+    "应用程序.T03L3439.executor": "Run",
+    "应用程序.T03L76.executor": "Run",
+    "应用程序.T04L234.executor": "Run",
+    "应用程序.T04L238.executor": "Run",
+    "应用程序.T04L3634.executor": "Run",
+    "应用程序.T04L3694.executor": "Run",
+    "应用程序.T04L4.executor": "Run",
+    "应用程序.T04L80.executor": "Debug",
+    "应用程序.T05L0658.executor": "Run",
+    "应用程序.T06L0557.executor": "Run",
+    "应用程序.T06L0904.executor": "Run",
+    "应用程序.T06L1652.executor": "Run",
+    "应用程序.T06L6.executor": "Run",
+    "应用程序.T07L0151.executor": "Run",
+    "应用程序.T07L07.executor": "Debug",
+    "应用程序.T07L1695.executor": "Run",
+    "应用程序.T08L19.executor": "Run",
+    "应用程序.T08L2958.executor": "Run",
+    "应用程序.T09L24.executor": "Run",
+    "应用程序.T10L10.executor": "Run",
+    "应用程序.T10L25.executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.Test1512.executor": "Run",
+    "应用程序.TestPriorityQueue1.executor": "Run",
+    "应用程序.TestPriorityQueue2.executor": "Run",
+    "应用程序.TestPriorityQueue3.executor": "Run",
+    "应用程序.TestThreadUnsafe.executor": "Debug",
+    "应用程序.TreeNode.executor": "Run",
+    "应用程序.UnderToTree.executor": "Run",
+    "应用程序.YanHui.executor": "Run",
+    "应用程序.com.dai.stack0zhan.Test.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\javacode\leetcode\code1\src\main\resources" />
@@ -243,13 +253,13 @@
       <recent name="com.dai.priorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.T04L238">
-    <configuration name="T02L239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a04zichuang.T02L239" />
+  <component name="RunManager" selected="应用程序.T10L25">
+    <configuration name="T01L160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a07lianbiao.T01L160" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a04zichuang.*" />
+          <option name="PATTERN" value="a07lianbiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T02L56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T02L56" />
+    <configuration name="T03L234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a07lianbiao.T03L234" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a05shuzhu.*" />
+          <option name="PATTERN" value="a07lianbiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T03L189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T03L189" />
+    <configuration name="T08L19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a07lianbiao.T08L19" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a05shuzhu.*" />
+          <option name="PATTERN" value="a07lianbiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T03L76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a04zichuang.T03L76" />
+    <configuration name="T09L24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a07lianbiao.T09L24" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a04zichuang.*" />
+          <option name="PATTERN" value="a07lianbiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T04L238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a05shuzhu.T04L238" />
+    <configuration name="T10L25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a07lianbiao.T10L25" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a05shuzhu.*" />
+          <option name="PATTERN" value="a07lianbiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.T04L238" />
-        <item itemvalue="应用程序.T03L189" />
-        <item itemvalue="应用程序.T02L56" />
-        <item itemvalue="应用程序.T03L76" />
-        <item itemvalue="应用程序.T02L239" />
+        <item itemvalue="应用程序.T10L25" />
+        <item itemvalue="应用程序.T09L24" />
+        <item itemvalue="应用程序.T08L19" />
+        <item itemvalue="应用程序.T03L234" />
+        <item itemvalue="应用程序.T01L160" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +589,11 @@
       <workItem from="1773026608669" duration="6587000" />
       <workItem from="1773047123232" duration="554000" />
       <workItem from="1773048050683" duration="605000" />
-      <workItem from="1773060413103" duration="651000" />
+      <workItem from="1773060413103" duration="1878000" />
+      <workItem from="1773105688810" duration="2163000" />
+      <workItem from="1773110510332" duration="4044000" />
+      <workItem from="1773129518075" duration="5132000" />
+      <workItem from="1773142459011" duration="1262000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -733,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772963319436</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2026.03.09 矩阵">
+      <option name="closed" value="true" />
+      <created>1773061090998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773061090998</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -781,7 +803,8 @@
     <MESSAGE value="2026.03.07 双指针+滑动窗口" />
     <MESSAGE value="2026.03.07 指针" />
     <MESSAGE value="2026.03.08 子串+数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.08 子串+数组" />
+    <MESSAGE value="2026.03.09 矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.09 矩阵" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -895,6 +918,16 @@
           <url>file://$PROJECT_DIR$/hot100/src/main/java/a04zichuang/T03L76.java</url>
           <line>20</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T09L24.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T10L25.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/DoubleLinkedList.java</url>
