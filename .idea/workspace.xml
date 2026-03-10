@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.09 矩阵">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T01L160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T02L206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T03L234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T04L141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T05L142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T06L21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T07L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T08L19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T09L24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T10L25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/base/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1c9a23c-dbfb-481a-b5b8-fe95c50ad3a2" name="更改" comment="2026.03.10 链表10道" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -593,7 +579,7 @@
       <workItem from="1773105688810" duration="2163000" />
       <workItem from="1773110510332" duration="4044000" />
       <workItem from="1773129518075" duration="5132000" />
-      <workItem from="1773142459011" duration="1262000" />
+      <workItem from="1773142459011" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="2026.2.2初始化">
       <option name="closed" value="true" />
@@ -755,7 +741,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773061090998</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2026.03.10 链表10道">
+      <option name="closed" value="true" />
+      <created>1773144037508</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773144037508</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -804,7 +798,8 @@
     <MESSAGE value="2026.03.07 指针" />
     <MESSAGE value="2026.03.08 子串+数组" />
     <MESSAGE value="2026.03.09 矩阵" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.09 矩阵" />
+    <MESSAGE value="2026.03.10 链表10道" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.10 链表10道" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -923,11 +918,6 @@
           <url>file://$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T09L24.java</url>
           <line>16</line>
           <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hot100/src/main/java/a07lianbiao/T10L25.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/day/src/main/java/com/dai/day02/DoubleLinkedList.java</url>
