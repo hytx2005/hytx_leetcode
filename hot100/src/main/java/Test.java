@@ -1,17 +1,20 @@
-import java.util.HashSet;
-import java.util.Set;
+import a08echashu.base.TreeNode;
+
+import java.util.*;
 
 public class Test {
-    public int numRabbits(int[] answers) {
-        Set<Integer> set = new HashSet<>();
-        for(int ans : answers){
-            set.add(ans);
+    public static List<Integer> test1(TreeNode root){
+        List<Integer> res = new ArrayList<>();
+        Deque<TreeNode> stack = new ArrayDeque<>();
+        while (root != null || !stack.isEmpty()){
+            while (root != null){
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            res.add(root.val);
+            root = root.right;
         }
-        int res = 0;
-        for(int ans : set){
-            res += ans;
-        }
-        res += set.size();
         return res;
     }
 }
