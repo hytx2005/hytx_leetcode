@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T03L226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T04L101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T05L543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T06L102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T07L108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T08L98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T09L230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T10L199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T11L114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T12L105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/T13L437.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/base/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/a08echashu/base/TreeNode.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +23,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3AqJ7f2D1sDJfFdMqpfL84UrE0Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javacode/leetcode/week",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -164,6 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773314001359</updated>
       <workItem from="1773314003738" duration="2540000" />
+      <workItem from="1773369755698" duration="149000" />
     </task>
     <servers />
   </component>
