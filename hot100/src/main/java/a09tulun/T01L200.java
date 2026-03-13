@@ -1,9 +1,7 @@
-import a08echashu.base.TreeNode;
+package a09tulun;
 
-import java.util.*;
-
-public class Test {
-    public int num(char[][] grid){
+public class T01L200 {
+    public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
         int count = 0;
@@ -17,7 +15,6 @@ public class Test {
         }
         return count;
     }
-
     public void fire(char[][] grid, int i, int j){
         if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == '0'){
             return;

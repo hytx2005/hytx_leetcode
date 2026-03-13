@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="重新拉取代码">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T01L200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T02L994.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T03L207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T04L208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/图论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +59,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.20507812",
+    "project.structure.side.proportion": "0.2509225",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.T02L994.executor": "Run",
+    "应用程序.T03L207.executor": "Debug",
     "应用程序.T06102.executor": "Run",
     "应用程序.T08L98.executor": "Run",
     "应用程序.T10L199.executor": "Run",
@@ -62,13 +72,13 @@
     "应用程序.T13L437.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.T13L437">
-    <configuration name="T08L98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a08echashu.T08L98" />
+  <component name="RunManager" selected="应用程序.T03L207">
+    <configuration name="T02L994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a09tulun.T02L994" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a08echashu.*" />
+          <option name="PATTERN" value="a09tulun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T10L199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a08echashu.T10L199" />
+    <configuration name="T03L207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a09tulun.T03L207" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a08echashu.*" />
+          <option name="PATTERN" value="a09tulun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.T03L207" />
+        <item itemvalue="应用程序.T02L994" />
         <item itemvalue="应用程序.T13L437" />
         <item itemvalue="应用程序.T12L105" />
         <item itemvalue="应用程序.T11L114" />
-        <item itemvalue="应用程序.T10L199" />
-        <item itemvalue="应用程序.T08L98" />
       </list>
     </recent_temporary>
   </component>
@@ -155,8 +165,17 @@
       <option name="presentableId" value="Default" />
       <updated>1773314001359</updated>
       <workItem from="1773314003738" duration="2540000" />
-      <workItem from="1773369755698" duration="149000" />
+      <workItem from="1773369755698" duration="8581000" />
     </task>
+    <task id="LOCAL-00001" summary="重新拉取代码">
+      <option name="closed" value="true" />
+      <created>1773369930772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773369930772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +191,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重新拉取代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新拉取代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/main/java/a09tulun/T03L207.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
