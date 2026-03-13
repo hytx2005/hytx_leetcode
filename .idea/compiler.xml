@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="week" />
+        <module name="mianshi150" />
+        <module name="hot100" />
+        <module name="shenmowange" />
+        <module name="onedayone" />
+        <module name="acha" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code1" target="21" />
+      <module name="day" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
