@@ -1,8 +1,9 @@
-import a08echashu.base.TreeNode;
+package a10huisu;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
-public class Test {
+public class T02L78 {
     public static List<List<Integer>> num(int[] nums){
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
@@ -23,13 +24,5 @@ public class Test {
         allSort(res,temp,begin+1,length,nums);
         // 回溯
         temp.remove(temp.size()-1);
-    }
-
-    public static void main(String[] args) {
-        int[] nums = {1,2,3};
-        List<List<Integer>> res = num(nums);
-        for (List<Integer> list : res) {
-            System.out.println(list);
-        }
     }
 }

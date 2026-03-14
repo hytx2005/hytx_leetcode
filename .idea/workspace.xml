@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="重新拉取代码">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T01L200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T02L994.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T03L207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T04L208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/图论.md" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.13 结束图论">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T01L46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T02L78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T03L17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T04L39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T05L22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T06L79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T07L131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/回溯.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
     </list>
@@ -47,32 +50,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/javacode/leetcode/week",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.20507812",
-    "project.structure.side.proportion": "0.2509225",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.T02L994.executor": "Run",
-    "应用程序.T03L207.executor": "Debug",
-    "应用程序.T06102.executor": "Run",
-    "应用程序.T08L98.executor": "Run",
-    "应用程序.T10L199.executor": "Run",
-    "应用程序.T11L114.executor": "Run",
-    "应用程序.T12L105.executor": "Run",
-    "应用程序.T13L437.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode/week&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.20507812&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2509225&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.T01L46.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T02L994.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T03L207.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T06102.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06L79.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T08L98.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T10L199.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T11L114.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T12L105.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T13L437.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.T03L207">
+}</component>
+  <component name="RunManager" selected="应用程序.T06L79">
+    <configuration name="T01L46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a10huisu.T01L46" />
+      <module name="hot100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a10huisu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="T02L994" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a09tulun.T02L994" />
       <module name="hot100" />
@@ -99,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T11L114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a08echashu.T11L114" />
+    <configuration name="T06L79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a10huisu.T06L79" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a08echashu.*" />
+          <option name="PATTERN" value="a10huisu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,39 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T12L105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a08echashu.T12L105" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="hot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a08echashu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T13L437" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a08echashu.T13L437" />
-      <module name="hot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a08echashu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.T06L79" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.T01L46" />
         <item itemvalue="应用程序.T03L207" />
         <item itemvalue="应用程序.T02L994" />
-        <item itemvalue="应用程序.T13L437" />
-        <item itemvalue="应用程序.T12L105" />
-        <item itemvalue="应用程序.T11L114" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,9 @@
       <option name="presentableId" value="Default" />
       <updated>1773314001359</updated>
       <workItem from="1773314003738" duration="2540000" />
-      <workItem from="1773369755698" duration="8581000" />
+      <workItem from="1773369755698" duration="10061000" />
+      <workItem from="1773467187912" duration="9084000" />
+      <workItem from="1773478699782" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -175,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773369930772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2026.03.13 结束图论">
+      <option name="closed" value="true" />
+      <created>1773390036700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773390036700</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重新拉取代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="重新拉取代码" />
+    <MESSAGE value="2026.03.13 结束图论" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.13 结束图论" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
