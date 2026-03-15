@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.13 结束图论">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T01L46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T02L78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T03L17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T04L39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T05L22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T06L79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T07L131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/回溯.md" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.14 回溯">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a10huisu/T08L51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +160,8 @@
       <workItem from="1773369755698" duration="10061000" />
       <workItem from="1773467187912" duration="9084000" />
       <workItem from="1773478699782" duration="2000" />
+      <workItem from="1773479374714" duration="142000" />
+      <workItem from="1773550958653" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -185,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773390036700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2026.03.14 回溯">
+      <option name="closed" value="true" />
+      <created>1773479393803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773479393803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重新拉取代码" />
     <MESSAGE value="2026.03.13 结束图论" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.13 结束图论" />
+    <MESSAGE value="2026.03.14 回溯" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.14 回溯" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
