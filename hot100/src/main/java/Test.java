@@ -1,35 +1,40 @@
 import a08echashu.base.TreeNode;
 
+import javax.imageio.stream.ImageInputStream;
 import java.util.*;
 
 public class Test {
-    public static List<List<Integer>> num(int[] nums){
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        allSort(res,temp,0,nums.length,nums);
-        return res;
+    // 得到第k小的元素，k>0
+    public int getKthMin(int[] nums1,int[] nums2,int k){
+        int m = nums1.length;
+        int n = nums2.length;
+        if(m == 0){
+            return nums2[k-1];
+        }else if(n == 0){
+            return nums1[k-1];
+        }
+        int index1 = 0,index2 = 0;
+        while(true){
+            if(index1 == m){
+                return nums2[index2+k-1];
+            }else if(index2 == n){
+                return nums1[index1+k-1];
+            }else if(k == 1){
+                return Math.min(nums1[index1],nums2[index2]);
+            }
+            int mid = k >> 1;
+            int next1 = Math.min(index1+mid,m) - 1;
+            int next2 = Math.min(index2+mid,n) - 1;
+            if(nums1[next1] <= nums2[next2]){
+                k -= next1 - index1 + 1;
+                index1 = next1 + 1;
+            }else{
+                k -= next2 - index2 + 1;
+                index2 = next2 + 1;
+            }
+
+        }
     }
 
-    private static void allSort(List<List<Integer>> res, List<Integer> temp, int begin, int length, int[] nums) {
-        if(begin == length){
-            res.add(new ArrayList<>(temp));
-            return;
-        }
-        // 只有两种情况，选或者不选
-        // 不选
-        allSort(res,temp,begin+1,length,nums);
-        // 选
-        temp.add(nums[begin]);
-        allSort(res,temp,begin+1,length,nums);
-        // 回溯
-        temp.remove(temp.size()-1);
-    }
 
-    public static void main(String[] args) {
-        int[] nums = {1,2,3};
-        List<List<Integer>> res = num(nums);
-        for (List<Integer> list : res) {
-            System.out.println(list);
-        }
-    }
 }
