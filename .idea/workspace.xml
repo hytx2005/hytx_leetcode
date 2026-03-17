@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.16 求两个数组中位数-hard">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/T01L20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/T02L155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/T03L394.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/T04L739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/T05L84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a12zhan/栈.md" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.16 栈-柱状图中的最大矩形-hard">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a13dui/T01L215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a13dui/T02L347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a13dui/T03L295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a13dui/堆.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
     </list>
@@ -175,7 +173,11 @@
       <workItem from="1773625163982" duration="2534000" />
       <workItem from="1773628393036" duration="1001000" />
       <workItem from="1773630985791" duration="5212000" />
-      <workItem from="1773647779771" duration="320000" />
+      <workItem from="1773647779771" duration="544000" />
+      <workItem from="1773650861835" duration="2571000" />
+      <workItem from="1773663240679" duration="280000" />
+      <workItem from="1773668410474" duration="10000" />
+      <workItem from="1773724122176" duration="4757000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -225,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773627105994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2026.03.16 栈">
+      <option name="closed" value="true" />
+      <created>1773648169140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773648169140</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2026.03.16 栈-柱状图中的最大矩形-hard">
+      <option name="closed" value="true" />
+      <created>1773648222594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773648222594</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +279,9 @@
     <MESSAGE value="2026.03.15 N皇后-hard" />
     <MESSAGE value="2026.03.15 二分" />
     <MESSAGE value="2026.03.16 求两个数组中位数-hard" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.16 求两个数组中位数-hard" />
+    <MESSAGE value="2026.03.16 栈" />
+    <MESSAGE value="2026.03.16 栈-柱状图中的最大矩形-hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.16 栈-柱状图中的最大矩形-hard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
