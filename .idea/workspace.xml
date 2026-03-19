@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.17 贪心3道">
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.18 动态规划一部分">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a15dontai/T08L416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a15dontai/T09L32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a15dontai/动态规划.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,7 @@
     "应用程序.T01L121.executor": "Debug",
     "应用程序.T01L35.executor": "Run",
     "应用程序.T01L46.executor": "Debug",
+    "应用程序.T02L118.executor": "Run",
     "应用程序.T02L994.executor": "Run",
     "应用程序.T03L207.executor": "Debug",
     "应用程序.T03L34.executor": "Debug",
@@ -75,7 +80,7 @@
     "应用程序.Test.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.T03L45">
+  <component name="RunManager" selected="应用程序.Test">
     <configuration name="T01L121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a14tanxin.T01L121" />
       <module name="hot100" />
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T03L45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a14tanxin.T03L45" />
+    <configuration name="T02L118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a15dontai.T02L118" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a14tanxin.*" />
+          <option name="PATTERN" value="a15dontai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T04L33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a11erfen.T04L33" />
+    <configuration name="T03L45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a14tanxin.T03L45" />
       <module name="hot100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a11erfen.*" />
+          <option name="PATTERN" value="a14tanxin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.T02L118" />
         <item itemvalue="应用程序.T03L45" />
         <item itemvalue="应用程序.T01L121" />
-        <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.T05L153" />
-        <item itemvalue="应用程序.T04L33" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +180,10 @@
       <workItem from="1773663240679" duration="280000" />
       <workItem from="1773668410474" duration="10000" />
       <workItem from="1773724122176" duration="9729000" />
+      <workItem from="1773746569035" duration="624000" />
+      <workItem from="1773751714497" duration="632000" />
+      <workItem from="1773798152076" duration="14701000" />
+      <workItem from="1773886254046" duration="4651000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -256,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773739882716</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2026.03.17 完成贪心">
+      <option name="closed" value="true" />
+      <created>1773746665104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773746665104</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2026.03.18 动态规划一部分">
+      <option name="closed" value="true" />
+      <created>1773886286818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773886286818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +321,9 @@
     <MESSAGE value="2026.03.16 栈-柱状图中的最大矩形-hard" />
     <MESSAGE value="2026.03.17 完成堆" />
     <MESSAGE value="2026.03.17 贪心3道" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.17 贪心3道" />
+    <MESSAGE value="2026.03.17 完成贪心" />
+    <MESSAGE value="2026.03.18 动态规划一部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.18 动态规划一部分" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
