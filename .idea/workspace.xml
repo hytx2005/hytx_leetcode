@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.18 完成单维度动态规划">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a16duoweidontai/T01L62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a16duoweidontai/T02L64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a16duoweidontai/T03L5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a16duoweidontai/多维动态规划.md" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.20 完成多维动态规划">
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a17jiqiao/技巧.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +182,7 @@
       <workItem from="1773798152076" duration="14701000" />
       <workItem from="1773886254046" duration="8842000" />
       <workItem from="1773911945595" duration="532000" />
+      <workItem from="1773969403899" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -290,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773891289790</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2026.03.20 完成多维动态规划">
+      <option name="closed" value="true" />
+      <created>1773970411714</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773970411714</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +339,8 @@
     <MESSAGE value="2026.03.17 完成贪心" />
     <MESSAGE value="2026.03.18 动态规划一部分" />
     <MESSAGE value="2026.03.18 完成单维度动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.18 完成单维度动态规划" />
+    <MESSAGE value="2026.03.20 完成多维动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.20 完成多维动态规划" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
