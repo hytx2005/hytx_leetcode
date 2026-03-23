@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.20 L169 颜色分类，可使用三指针，达到一轮扫描完成">
-      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a17jiqiao/T04L31.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.20 完成hot100,加油">
+      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D23L1594.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,42 +42,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode/week&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.20507812&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2509225&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.T01L121.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T01L35.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T01L46.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T02L118.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L994.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T03L207.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L34.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L45.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L33.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T05L153.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06102.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L79.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T08L98.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T10L199.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T11L114.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T12L105.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T13L437.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javacode/leetcode/week",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.20507812",
+    "project.structure.side.proportion": "0.2509225",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.D23L1594.executor": "Run",
+    "应用程序.T01L121.executor": "Debug",
+    "应用程序.T01L35.executor": "Run",
+    "应用程序.T01L46.executor": "Debug",
+    "应用程序.T02L118.executor": "Run",
+    "应用程序.T02L994.executor": "Run",
+    "应用程序.T03L207.executor": "Debug",
+    "应用程序.T03L34.executor": "Debug",
+    "应用程序.T03L45.executor": "Run",
+    "应用程序.T04L33.executor": "Debug",
+    "应用程序.T05L153.executor": "Run",
+    "应用程序.T06102.executor": "Run",
+    "应用程序.T06L79.executor": "Run",
+    "应用程序.T08L98.executor": "Run",
+    "应用程序.T10L199.executor": "Run",
+    "应用程序.T11L114.executor": "Run",
+    "应用程序.T12L105.executor": "Run",
+    "应用程序.T13L437.executor": "Run",
+    "应用程序.Test.executor": "Run"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.Test">
+}]]></component>
+  <component name="RunManager" selected="应用程序.D23L1594">
+    <configuration name="D23L1594" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year2026.month03.D23L1594" />
+      <module name="onedayone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year2026.month03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="T01L121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a14tanxin.T01L121" />
       <module name="hot100" />
@@ -117,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T05L153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a11erfen.T05L153" />
-      <module name="hot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a11erfen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="hot100" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.D23L1594" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.T02L118" />
         <item itemvalue="应用程序.T03L45" />
         <item itemvalue="应用程序.T01L121" />
-        <item itemvalue="应用程序.T05L153" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +183,8 @@
       <workItem from="1773798152076" duration="14701000" />
       <workItem from="1773886254046" duration="8842000" />
       <workItem from="1773911945595" duration="532000" />
-      <workItem from="1773969403899" duration="8600000" />
+      <workItem from="1773969403899" duration="9561000" />
+      <workItem from="1774235919964" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -320,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773976052942</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2026.03.20 完成hot100,加油">
+      <option name="closed" value="true" />
+      <created>1773992260453</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773992260453</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +377,8 @@
     <MESSAGE value="2026.03.20 L136 只出现一次的数字，可使用异或位运算完成，达到空间复杂度O(1)" />
     <MESSAGE value="2026.03.20 L169 多数元素，可使用投票算法完成，达到空间复杂度O(1)" />
     <MESSAGE value="2026.03.20 L169 颜色分类，可使用三指针，达到一轮扫描完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.20 L169 颜色分类，可使用三指针，达到一轮扫描完成" />
+    <MESSAGE value="2026.03.20 完成hot100,加油" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.20 完成hot100,加油" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
