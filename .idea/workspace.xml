@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.20 完成hot100,加油">
-      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D23L1594.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件">
+      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D26L3548.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,8 @@
     "project.structure.side.proportion": "0.2509225",
     "vue.rearranger.settings.migration": "true",
     "应用程序.D23L1594.executor": "Run",
+    "应用程序.D24L2906.executor": "Run",
+    "应用程序.D26L3548.executor": "Run",
     "应用程序.T01L121.executor": "Debug",
     "应用程序.T01L35.executor": "Run",
     "应用程序.T01L46.executor": "Debug",
@@ -78,7 +80,7 @@
     "应用程序.Test.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.D23L1594">
+  <component name="RunManager" selected="应用程序.D26L3548">
     <configuration name="D23L1594" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year2026.month03.D23L1594" />
       <module name="onedayone" />
@@ -92,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T01L121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a14tanxin.T01L121" />
-      <module name="hot100" />
+    <configuration name="D24L2906" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year2026.month03.D24L2906" />
+      <module name="onedayone" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a14tanxin.*" />
+          <option name="PATTERN" value="year2026.month03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D26L3548" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="year2026.month03.D26L3548" />
+      <module name="onedayone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="year2026.month03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T03L45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a14tanxin.T03L45" />
-      <module name="hot100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a14tanxin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="hot100" />
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.D26L3548" />
+        <item itemvalue="应用程序.D24L2906" />
         <item itemvalue="应用程序.D23L1594" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.T02L118" />
-        <item itemvalue="应用程序.T03L45" />
-        <item itemvalue="应用程序.T01L121" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +186,13 @@
       <workItem from="1773886254046" duration="8842000" />
       <workItem from="1773911945595" duration="532000" />
       <workItem from="1773969403899" duration="9561000" />
-      <workItem from="1774235919964" duration="758000" />
+      <workItem from="1774235919964" duration="841000" />
+      <workItem from="1774248362783" duration="5000" />
+      <workItem from="1774318274503" duration="601000" />
+      <workItem from="1774318889189" duration="75000" />
+      <workItem from="1774401209275" duration="1837000" />
+      <workItem from="1774404531079" duration="246000" />
+      <workItem from="1774491581014" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -330,7 +338,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773992260453</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2026.03.23 每日一题 今日题目：1594.矩阵的最大非负积&#10;所用算法：动态规划">
+      <option name="closed" value="true" />
+      <created>1774236760181</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1774236760181</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2026.03.24 每日一题 今日题目：2906.构造乘积矩阵&#10;标签：二维转一维度、前后缀、动态规划">
+      <option name="closed" value="true" />
+      <created>1774318959803</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1774318959803</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件">
+      <option name="closed" value="true" />
+      <created>1774404774618</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1774404774618</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +410,10 @@
     <MESSAGE value="2026.03.20 L169 多数元素，可使用投票算法完成，达到空间复杂度O(1)" />
     <MESSAGE value="2026.03.20 L169 颜色分类，可使用三指针，达到一轮扫描完成" />
     <MESSAGE value="2026.03.20 完成hot100,加油" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.20 完成hot100,加油" />
+    <MESSAGE value="2026.03.23 每日一题 今日题目：1594.矩阵的最大非负积&#10;所用算法：动态规划" />
+    <MESSAGE value="2026.03.24 每日一题 今日题目：2906.构造乘积矩阵&#10;标签：二维转一维度、前后缀、动态规划" />
+    <MESSAGE value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -397,6 +432,11 @@
           <url>file://$PROJECT_DIR$/hot100/src/main/java/a14tanxin/T01L121.java</url>
           <line>6</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D24L2906.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
