@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件">
-      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D26L3548.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？">
+      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D29L2839.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,44 +42,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/javacode/leetcode/week",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.20507812",
-    "project.structure.side.proportion": "0.2509225",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.D23L1594.executor": "Run",
-    "应用程序.D24L2906.executor": "Run",
-    "应用程序.D26L3548.executor": "Run",
-    "应用程序.T01L121.executor": "Debug",
-    "应用程序.T01L35.executor": "Run",
-    "应用程序.T01L46.executor": "Debug",
-    "应用程序.T02L118.executor": "Run",
-    "应用程序.T02L994.executor": "Run",
-    "应用程序.T03L207.executor": "Debug",
-    "应用程序.T03L34.executor": "Debug",
-    "应用程序.T03L45.executor": "Run",
-    "应用程序.T04L33.executor": "Debug",
-    "应用程序.T05L153.executor": "Run",
-    "应用程序.T06102.executor": "Run",
-    "应用程序.T06L79.executor": "Run",
-    "应用程序.T08L98.executor": "Run",
-    "应用程序.T10L199.executor": "Run",
-    "应用程序.T11L114.executor": "Run",
-    "应用程序.T12L105.executor": "Run",
-    "应用程序.T13L437.executor": "Run",
-    "应用程序.Test.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode/week&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.20507812&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2509225&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.D23L1594.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D24L2906.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D26L3548.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T01L121.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T01L35.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T01L46.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T02L118.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T02L994.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T03L207.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T03L34.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T03L45.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T04L33.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T05L153.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06102.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06L79.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T08L98.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T10L199.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T11L114.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T12L105.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T13L437.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.D26L3548">
     <configuration name="D23L1594" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year2026.month03.D23L1594" />
@@ -192,7 +192,11 @@
       <workItem from="1774318889189" duration="75000" />
       <workItem from="1774401209275" duration="1837000" />
       <workItem from="1774404531079" duration="246000" />
-      <workItem from="1774491581014" duration="1003000" />
+      <workItem from="1774491581014" duration="1806000" />
+      <workItem from="1774501810759" duration="31000" />
+      <workItem from="1774511805673" duration="668000" />
+      <workItem from="1774593510518" duration="258000" />
+      <workItem from="1774770677127" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -362,7 +366,31 @@
       <option name="project" value="LOCAL" />
       <updated>1774404774618</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2026.03.26 每日一题 今日题目：3548.等和矩阵分割II&#10;模拟，考虑特多特殊条件(评价：⑩)">
+      <option name="closed" value="true" />
+      <created>1774496206191</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1774496206191</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2026.03.26 每日一题 今日题目：3548.等和矩阵分割II&#10;模拟，考虑特多特殊条件(评价：⑩)">
+      <option name="closed" value="true" />
+      <created>1774496219902</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1774496219902</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？">
+      <option name="closed" value="true" />
+      <created>1774593764664</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1774593764664</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +441,9 @@
     <MESSAGE value="2026.03.23 每日一题 今日题目：1594.矩阵的最大非负积&#10;所用算法：动态规划" />
     <MESSAGE value="2026.03.24 每日一题 今日题目：2906.构造乘积矩阵&#10;标签：二维转一维度、前后缀、动态规划" />
     <MESSAGE value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
+    <MESSAGE value="2026.03.26 每日一题 今日题目：3548.等和矩阵分割II&#10;模拟，考虑特多特殊条件(评价：⑩)" />
+    <MESSAGE value="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
