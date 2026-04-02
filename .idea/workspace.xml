@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？">
-      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D29L2839.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.03.29 3.30同一种思路，数学思路题">
+      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month04/D01L2751.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,11 @@
     &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="year2026.month03" />
+    </key>
+  </component>
   <component name="RunManager" selected="应用程序.D26L3548">
     <configuration name="D23L1594" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year2026.month03.D23L1594" />
@@ -197,6 +202,8 @@
       <workItem from="1774511805673" duration="668000" />
       <workItem from="1774593510518" duration="258000" />
       <workItem from="1774770677127" duration="442000" />
+      <workItem from="1774855062896" duration="92000" />
+      <workItem from="1775025221549" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -390,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774593764664</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2026.03.29 3.30同一种思路，数学思路题">
+      <option name="closed" value="true" />
+      <created>1774855152173</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1774855152173</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +458,8 @@
     <MESSAGE value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
     <MESSAGE value="2026.03.26 每日一题 今日题目：3548.等和矩阵分割II&#10;模拟，考虑特多特殊条件(评价：⑩)" />
     <MESSAGE value="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？" />
+    <MESSAGE value="2026.03.29 3.30同一种思路，数学思路题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.03.29 3.30同一种思路，数学思路题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
