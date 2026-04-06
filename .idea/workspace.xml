@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.04.03" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.04.04 数学思路题">
+      <change afterPath="$PROJECT_DIR$/onedayone/src/main/java/year2026/month04/D05L657.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +56,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.20507812",
     "project.structure.side.proportion": "0.2509225",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.D23L1594.executor": "Run",
     "应用程序.D24L2906.executor": "Run",
@@ -209,6 +213,8 @@
       <workItem from="1775116511222" duration="737000" />
       <workItem from="1775197956935" duration="1627000" />
       <workItem from="1775202694159" duration="2156000" />
+      <workItem from="1775284800695" duration="1719000" />
+      <workItem from="1775372689658" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -442,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775222693403</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2026.04.04 数学思路题">
+      <option name="closed" value="true" />
+      <created>1775284867995</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1775284867995</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.03.14 回溯" />
     <MESSAGE value="2026.03.15 N皇后-hard" />
     <MESSAGE value="2026.03.15 二分" />
     <MESSAGE value="2026.03.16 求两个数组中位数-hard" />
@@ -497,7 +510,8 @@
     <MESSAGE value="2026.04.01" />
     <MESSAGE value="2026.04.02 中等题" />
     <MESSAGE value="2026.04.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.04.03" />
+    <MESSAGE value="2026.04.04 数学思路题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.04.04 数学思路题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
