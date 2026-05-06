@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="week" />
+        <module name="onedayone" />
+        <module name="acha" />
+        <module name="codetop" />
         <module name="mianshi150" />
         <module name="hot100" />
         <module name="shenmowange" />
-        <module name="onedayone" />
-        <module name="acha" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
