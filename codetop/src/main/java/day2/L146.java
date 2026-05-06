@@ -3,10 +3,10 @@ package day2;
 import java.util.HashMap;
 
 public class L146 {
-    class LRUCache {
+    static class LRUCache {
         ListNode head;
         ListNode tail;
-        HashMap<Integer,ListNode> map;
+        HashMap<Integer, ListNode> map;
         int size;
 
         class ListNode {
@@ -23,10 +23,17 @@ public class L146 {
                 this.key = key;
                 this.val = val;
             }
+
+            @Override
+            public String toString() {
+                return
+                        "{ val=" + val +
+                        ", key=" + key +"}";
+            }
         }
 
         public LRUCache(int capacity) {
-            map = new HashMap<>(capacity);
+            map = new HashMap(capacity);
             size = capacity;
             head = new ListNode();
             tail = new ListNode();
@@ -35,49 +42,76 @@ public class L146 {
         }
 
         public int get(int key) {
-            if(map.containsKey(key)){
-                ListNode val = map.get(key);
-                // 使用过，加到首部
-                val.prev.next = val.next;
-                val.next.prev = val.prev;
-                ListNode temp = head.next;
-                temp.prev = val;
-                val.next = temp;
-                head.next = val;
-                val.prev = head;
-                return val.val;
+            if (map.containsKey(key)) {
+                ListNode node = map.get(key);
+                delete(node.key);
+                ListNode next = head.next;
+                head.next = node;
+                node.prev = head;
+                node.next = next;
+                next.prev = node;
+                map.put(key,node);
+                return map.get(key).val;
             }
             return -1;
         }
 
         public void put(int key, int value) {
-            // 需要删除元素
-            if(map.size() >= size && !map.containsKey(key)){
-                ListNode temp = tail.prev;
-                temp.prev.next = tail;
-                tail.prev = temp.prev;
-                map.remove(temp.key);
+            // 不存在且无需删除
+            if (!map.containsKey(key) && map.size() < size) {
+                ListNode next = head.next;
+                ListNode newVal = new ListNode(key,value);
+                head.next = newVal;
+                newVal.prev = head;
+                newVal.next = next;
+                next.prev = newVal;
+                map.put(key,newVal);
             }
-            // 修改元素
-            if(map.containsKey(key)){
-                // 移除元素，后面逻辑跟新增一样
-                ListNode thisNode = map.get(key);
-                thisNode.prev.next = thisNode.next;
-                thisNode.next.prev = thisNode.prev;
-                map.remove(key);
+            // 不存在且需要删除
+            else if(!map.containsKey(key) && map.size() == size){
+                ListNode del = tail.prev;
+                delete(del.key);
+                ListNode next = head.next;
+                ListNode newVal = new ListNode(key,value);
+                head.next = newVal;
+                newVal.prev = head;
+                newVal.next = next;
+                next.prev = newVal;
+                map.put(key,newVal);
             }
+            // 存在需要删除重新加入
+            else if(map.containsKey(key)){
+                ListNode del = map.get(key);
+                delete(del.key);
+                ListNode next = head.next;
+                ListNode newVal = new ListNode(key,value);
+                head.next = newVal;
+                newVal.prev = head;
+                newVal.next = next;
+                next.prev = newVal;
+                map.put(key,newVal);
+            }
+        }
 
-                ListNode val = new ListNode(key,value);
-                ListNode temp1 = head.next;
-                temp1.prev = val;
-                val.next = temp1;
-                head.next = val;
-                val.prev = head;
-                map.put(key,val);
+        private void delete(int key){
+            if(map.containsKey(key)){
+                ListNode the = map.get(key);
+                map.remove(key);
+                the.next.prev = the.prev;
+                the.prev.next = the.next;
+            }
         }
     }
 
     public static void main(String[] args) {
-
+        LRUCache cache = new LRUCache(2);
+        cache.put(1, 1);
+        cache.put(2, 2);
+        System.out.println(cache.map);       // 返回  1
+        cache.put(3, 3);    // 该操作会使得密钥 2 作废
+        System.out.println(cache.map);;       // 返回 -1 (未找到)
+        cache.put(4, 4);    // 该操作会使得密钥 3 作废
+        System.out.println(cache.map);;       // 返回 -1 (未找到)
+        System.out.println(cache.get(4));       // 返回  4
     }
 }
