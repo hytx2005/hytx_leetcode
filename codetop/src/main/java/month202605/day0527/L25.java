@@ -1,4 +1,4 @@
-package day0527;
+package month202605.day0527;
 
 public class L25 {
     public static class ListNode {
