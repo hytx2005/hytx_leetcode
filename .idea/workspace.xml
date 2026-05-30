@@ -4,11 +4,187 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.05.27">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202605/day0528/L15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202605/day0528/L53.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.05.28">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202605/day0529/L5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202605/day0529/L912.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day1/L03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L146$LRUCache$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L146$LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L146.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L215.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L25$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/target/classes/day2/L25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/src/main/java/a09tulun/T01L200F2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mianshi150.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/Main$LRU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/Main$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251023L3461.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251025L1716.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251026L2043$Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251026L2043.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251027L2125.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251028L354.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month10/D251031L3289.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month11/D01L3217$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month11/D01L3217.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month11/D03L1578.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month12/D29L0756.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month12/D30L0840.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2025/month12/D31L1970.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D23L1594.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D24L2906.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D25L3546.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D26L3548.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D27L2946.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D29L2839.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month03/D30L2840.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D01L2751.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D02L3418.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D04L2087.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D05L657.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D06L874.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D07L2069$Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D07L2069.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D08L3653.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D09L3655.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D10L3740.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D13L1848.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D15L2515.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D17L3761.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D21L1722.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedayone/target/classes/year2026/month04/D23L2615.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a01hash/T01L1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a01hash/T02L49.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a01hash/T03L128.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a01hash/哈希表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a02shuanzhizhen/T01L283.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a02shuanzhizhen/T02L11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a02shuanzhizhen/T03L15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a02shuanzhizhen/T04L42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a02shuanzhizhen/双指针.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a03huadongchuangkou/T01L3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a03huadongchuangkou/T02L438.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a03huadongchuangkou/滑动窗口.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a04zichuang/T01L560.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a04zichuang/T02L239$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a04zichuang/T02L239.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a04zichuang/T03L76.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a04zichuang/字串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/T01L53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/T02L56.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/T03L189.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/T04L238.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/T05L41.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a05shuzhu/普通数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a06juzheng/T01L73.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a06juzheng/T02L54.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a06juzheng/T03L48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a06juzheng/T04L240.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a06juzheng/矩阵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T01L160.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T02L206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T03L234.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T04L141.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T05L142.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T06L21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T07L2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T08L19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T09L24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T10L25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T11L138.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T12L148.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T13L23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T14L146$LRUCache$LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T14L146$LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/T14L146.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/base/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/base/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a07lianbiao/链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T01L94.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T02L104.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T03L226.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T04L101.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T05L543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T06L102.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T07L108.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T08L98.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T09L230.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T10L199.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T11L114.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T12L105.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T13L437.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T14L236.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/T15L124.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/base/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a08echashu/二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T01L200.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T01L200F2$UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T01L200F2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T02L994.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T03L207.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T04L208$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/T04L208.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a09tulun/图论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T01L46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T02L78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T03L17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T04L39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T05L22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T06L79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T07L131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/T08L51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a10huisu/回溯.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T01L35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T02L74.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T03L34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T04L33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T05L153.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/T06L4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a11erfen/二分.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T01L20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T02L155$MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T02L155$MinStack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T02L155.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T03L394.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T04L739.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/T05L84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a12zhan/栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/T01L215.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/T02L347.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/T03L295$MedianFinder$Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/T03L295$MedianFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/T03L295.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a13dui/堆.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a14tanxin/T01L121.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a14tanxin/T02L55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a14tanxin/T03L45.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a14tanxin/T04L763.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a14tanxin/贪心.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T01L70E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T02L118.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T03L198.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T04L279.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T05L139.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T06L300.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T07L152.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T08L416.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/T09L32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a15dontai/动态规划.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/T01L62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/T02L64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/T03L5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/T04L1143.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/T05L72.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a16duoweidontai/多维动态规划.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a17jiqiao/T01L136.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a17jiqiao/T02L169.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a17jiqiao/T03L75.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a17jiqiao/T04L31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hot100/a17jiqiao/技巧.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/day0527/L25.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202605/day0527/L25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,55 +220,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.acha [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.shenmowange [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.week [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode/week&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.20507812&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2509225&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.D06L874.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D17L3761.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.D21L1722.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D23L1594.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D24L2906.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D26L3548.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L146.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L215.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.L25.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T01L121.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T01L35.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T01L46.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T02L118.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T02L994.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T03L207.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L34.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T03L45.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T04L33.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.T05L153.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06102.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T06L79.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T08L98.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T10L199.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T11L114.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T12L105.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.T13L437.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.acha [clean].executor": "Run",
+    "Maven.codetop [clean].executor": "Run",
+    "Maven.shenmowange [clean].executor": "Run",
+    "Maven.week [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javacode/leetcode/week",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.20507812",
+    "project.structure.side.proportion": "0.2509225",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.D06L874.executor": "Run",
+    "应用程序.D17L3761.executor": "Debug",
+    "应用程序.D21L1722.executor": "Run",
+    "应用程序.D23L1594.executor": "Run",
+    "应用程序.D24L2906.executor": "Run",
+    "应用程序.D26L3548.executor": "Run",
+    "应用程序.L146.executor": "Run",
+    "应用程序.L215.executor": "Run",
+    "应用程序.L25.executor": "Run",
+    "应用程序.L912.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.T01L121.executor": "Debug",
+    "应用程序.T01L35.executor": "Run",
+    "应用程序.T01L46.executor": "Debug",
+    "应用程序.T02L118.executor": "Run",
+    "应用程序.T02L994.executor": "Run",
+    "应用程序.T03L207.executor": "Debug",
+    "应用程序.T03L34.executor": "Debug",
+    "应用程序.T03L45.executor": "Run",
+    "应用程序.T04L33.executor": "Debug",
+    "应用程序.T05L153.executor": "Run",
+    "应用程序.T06102.executor": "Run",
+    "应用程序.T06L79.executor": "Run",
+    "应用程序.T08L98.executor": "Run",
+    "应用程序.T10L199.executor": "Run",
+    "应用程序.T11L114.executor": "Run",
+    "应用程序.T12L105.executor": "Run",
+    "应用程序.T13L437.executor": "Run",
+    "应用程序.Test.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\javacode\leetcode\codetop\src\main\java" />
@@ -101,20 +279,7 @@
       <recent name="year2026.month03" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.L25">
-    <configuration name="D17L3761" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="year2026.month04.D17L3761" />
-      <module name="onedayone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="year2026.month04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.L912">
     <configuration name="D21L1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="year2026.month04.D21L1722" />
       <module name="onedayone" />
@@ -154,6 +319,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L912" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="month202605.day0529.L912" />
+      <module name="codetop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="month202605.day0529.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="onedayone" />
@@ -163,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.L912" />
         <item itemvalue="应用程序.L25" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.L146" />
         <item itemvalue="应用程序.D21L1722" />
-        <item itemvalue="应用程序.D17L3761" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +435,7 @@
       <workItem from="1779879556088" duration="1132000" />
       <workItem from="1779881087382" duration="166000" />
       <workItem from="1779943375664" duration="1478000" />
+      <workItem from="1780030991337" duration="2236000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -586,7 +765,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779881159979</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="2026.05.28">
+      <option name="closed" value="true" />
+      <created>1780031008341</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1780031008341</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +803,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.03.20 完成多维动态规划" />
     <MESSAGE value="2026.03.20 L136 只出现一次的数字，可使用异或位运算完成，达到空间复杂度O(1)" />
     <MESSAGE value="2026.03.20 L169 多数元素，可使用投票算法完成，达到空间复杂度O(1)" />
     <MESSAGE value="2026.03.20 L169 颜色分类，可使用三指针，达到一轮扫描完成" />
@@ -641,7 +827,8 @@
     <MESSAGE value="2026.04.15 简单题 中心遍历" />
     <MESSAGE value="提交" />
     <MESSAGE value="2026.05.27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.05.27" />
+    <MESSAGE value="2026.05.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.05.28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
