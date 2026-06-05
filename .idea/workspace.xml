@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.06.03">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L415.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L54.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.06.04">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day05/L56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/day05/L72.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +270,8 @@
       <workItem from="1780377895225" duration="3073000" />
       <workItem from="1780487605965" duration="2530000" />
       <workItem from="1780491377443" duration="57000" />
-      <workItem from="1780567320873" duration="2218000" />
+      <workItem from="1780567320873" duration="2684000" />
+      <workItem from="1780656662874" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="重新拉取代码">
       <option name="closed" value="true" />
@@ -658,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780491391353</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2026.06.04">
+      <option name="closed" value="true" />
+      <created>1780569897254</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1780569897254</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,7 +695,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.03.25 每日一题 今日题目：3546.等和矩阵分割I&#10;做法一：分别求水平分割线和竖直分割线&#10;做法二：二维前缀和，判断边界的前缀和是否满足条件" />
     <MESSAGE value="2026.03.26 每日一题 今日题目：3548.等和矩阵分割II&#10;模拟，考虑特多特殊条件(评价：⑩)" />
     <MESSAGE value="2026.03.26 每日一题 今日题目：2946.循环位移后的矩阵相似检查&#10;easy题，数学思路题？" />
     <MESSAGE value="2026.03.29 3.30同一种思路，数学思路题" />
@@ -713,7 +719,8 @@
     <MESSAGE value="2026.06.01" />
     <MESSAGE value="2026.06.02" />
     <MESSAGE value="2026.06.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.06.03" />
+    <MESSAGE value="2026.06.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.06.04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
