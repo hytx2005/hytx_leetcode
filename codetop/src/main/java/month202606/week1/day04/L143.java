@@ -1,4 +1,4 @@
-package month202606.day04;
+package month202606.week1.day04;
 
 
 

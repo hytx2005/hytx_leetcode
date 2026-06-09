@@ -1,4 +1,4 @@
-package month202606.day06;
+package month202606.week1.day06;
 
 public class L160 {
     public class ListNode {

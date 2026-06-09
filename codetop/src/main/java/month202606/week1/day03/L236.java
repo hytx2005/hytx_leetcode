@@ -1,4 +1,4 @@
-package month202606.day03;
+package month202606.week1.day03;
 
 public class L236 {
     public class TreeNode {

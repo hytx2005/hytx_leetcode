@@ -1,4 +1,4 @@
-package month202606.day01;
+package month202606.week1.day01;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

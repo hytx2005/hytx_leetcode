@@ -1,4 +1,4 @@
-package month202606.day08;
+package month202606.week2.day08;
 
 import java.util.ArrayList;
 import java.util.HashMap;

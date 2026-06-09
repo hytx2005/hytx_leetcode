@@ -1,4 +1,4 @@
-package month202606.day05;
+package month202606.week1.day05;
 
 public class L72 {
     class Solution {
