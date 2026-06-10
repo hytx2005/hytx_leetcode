@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.06.08">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day09/L1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day09/L82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day09/L93.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.06.09">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day10/L124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day10/L93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day01/L20.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day01/L20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day01/L88.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day01/L88.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day02/L103.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day02/L103.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day02/L121.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day02/L121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day02/L92.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day02/L92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day03/L23.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day03/L23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day03/L236.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day03/L236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day03/L300.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day03/L300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L141.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day04/L141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L143.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day04/L143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L415.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day04/L415.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day04/L54.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day04/L54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day05/L56.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day05/L56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day05/L72.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day05/L72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day06/L160.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day06/L160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day06/L42.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week1/day06/L42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codetop/src/main/java/month202606/day08/L12.java" beforeDir="false" afterPath="$PROJECT_DIR$/codetop/src/main/java/month202606/week2/day08/L12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,59 +43,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.acha [clean].executor": "Run",
-    "Maven.codetop [clean].executor": "Run",
-    "Maven.onedayone [clean].executor": "Run",
-    "Maven.shenmowange [clean].executor": "Run",
-    "Maven.week [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/javacode/leetcode/week",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.20507812",
-    "project.structure.side.proportion": "0.2509225",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.D06L874.executor": "Run",
-    "应用程序.D17L3761.executor": "Debug",
-    "应用程序.D21L1722.executor": "Run",
-    "应用程序.D23L1594.executor": "Run",
-    "应用程序.D24L2906.executor": "Run",
-    "应用程序.D26L3548.executor": "Run",
-    "应用程序.L146.executor": "Run",
-    "应用程序.L215.executor": "Run",
-    "应用程序.L25.executor": "Run",
-    "应用程序.L82.executor": "Debug",
-    "应用程序.L912.executor": "Debug",
-    "应用程序.Main.executor": "Run",
-    "应用程序.T01L121.executor": "Debug",
-    "应用程序.T01L35.executor": "Run",
-    "应用程序.T01L46.executor": "Debug",
-    "应用程序.T02L118.executor": "Run",
-    "应用程序.T02L994.executor": "Run",
-    "应用程序.T03L207.executor": "Debug",
-    "应用程序.T03L34.executor": "Debug",
-    "应用程序.T03L45.executor": "Run",
-    "应用程序.T04L33.executor": "Debug",
-    "应用程序.T05L153.executor": "Run",
-    "应用程序.T06102.executor": "Run",
-    "应用程序.T06L79.executor": "Run",
-    "应用程序.T08L98.executor": "Run",
-    "应用程序.T10L199.executor": "Run",
-    "应用程序.T11L114.executor": "Run",
-    "应用程序.T12L105.executor": "Run",
-    "应用程序.T13L437.executor": "Run",
-    "应用程序.Test.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.acha [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.codetop [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.onedayone [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.shenmowange [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.week [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/javacode/leetcode/week&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.20507812&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2509225&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.D06L874.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D17L3761.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.D21L1722.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D23L1594.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D24L2906.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D26L3548.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.L146.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.L215.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.L25.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.L82.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.L912.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T01L121.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T01L35.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T01L46.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T02L118.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T02L994.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T03L207.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T03L34.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T03L45.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T04L33.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T05L153.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06102.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T06L79.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T08L98.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T10L199.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T11L114.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T12L105.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T13L437.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\javacode\leetcode\codetop\src\main\java" />
@@ -298,23 +280,8 @@
       <workItem from="1780916341665" duration="860000" />
       <workItem from="1780930008232" duration="15000" />
       <workItem from="1780988003708" duration="602000" />
-      <workItem from="1781014132695" duration="3320000" />
-    </task>
-    <task id="LOCAL-00004" summary="2026.03.15 N皇后-hard">
-      <option name="closed" value="true" />
-      <created>1773552770853</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1773552770853</updated>
-    </task>
-    <task id="LOCAL-00005" summary="2026.03.15 二分">
-      <option name="closed" value="true" />
-      <created>1773561900267</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1773561900267</updated>
+      <workItem from="1781014132695" duration="4050000" />
+      <workItem from="1781091530191" duration="1164000" />
     </task>
     <task id="LOCAL-00006" summary="2026.03.16 求两个数组中位数-hard">
       <option name="closed" value="true" />
@@ -692,7 +659,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781014145411</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="包移动">
+      <option name="closed" value="true" />
+      <created>1781017604819</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1781017604819</updated>
+    </task>
+    <task id="LOCAL-00054" summary="2026.06.09">
+      <option name="closed" value="true" />
+      <created>1781017622799</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1781017622799</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,8 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.04.02 中等题" />
-    <MESSAGE value="2026.04.03" />
     <MESSAGE value="2026.04.04 数学思路题" />
     <MESSAGE value="2026.04.05 简单题" />
     <MESSAGE value="2026.04.6 中等题" />
@@ -747,7 +728,9 @@
     <MESSAGE value="2026.06.06" />
     <MESSAGE value="2026.06.08" />
     <MESSAGE value="2026.06.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.06.08" />
+    <MESSAGE value="包移动" />
+    <MESSAGE value="2026.06.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.06.09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
