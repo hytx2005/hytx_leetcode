@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.15">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day16/L30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day16/L76.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.16">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L73.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +77,7 @@
     "应用程序.L215.executor": "Run",
     "应用程序.L25.executor": "Run",
     "应用程序.L30.executor": "Run",
+    "应用程序.L36.executor": "Run",
     "应用程序.L68.executor": "Run",
     "应用程序.L82.executor": "Debug",
     "应用程序.L912.executor": "Debug",
@@ -106,13 +110,13 @@
       <recent name="year2026.month03" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.L30">
-    <configuration name="L25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0527.L25" />
+  <component name="RunManager" selected="应用程序.L36">
+    <configuration name="L30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="month202607.week3.day16.L30" />
       <module name="codetop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0527.*" />
+          <option name="PATTERN" value="month202607.week3.day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="month202607.week3.day16.L30" />
+    <configuration name="L36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="month202607.week3.day17.L36" />
       <module name="codetop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="month202607.week3.day16.*" />
+          <option name="PATTERN" value="month202607.week3.day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.L36" />
         <item itemvalue="应用程序.L30" />
         <item itemvalue="应用程序.L68" />
         <item itemvalue="应用程序.L82" />
         <item itemvalue="应用程序.L912" />
-        <item itemvalue="应用程序.L25" />
       </list>
     </recent_temporary>
   </component>
@@ -302,15 +306,8 @@
       <workItem from="1783751143952" duration="21000" />
       <workItem from="1783999539503" duration="1805000" />
       <workItem from="1784011172357" duration="3000" />
-      <workItem from="1784189440940" duration="5493000" />
-    </task>
-    <task id="LOCAL-00013" summary="2026.03.18 完成单维度动态规划">
-      <option name="closed" value="true" />
-      <created>1773891289790</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1773891289790</updated>
+      <workItem from="1784189440940" duration="5598000" />
+      <workItem from="1784260539374" duration="7260000" />
     </task>
     <task id="LOCAL-00014" summary="2026.03.20 完成多维动态规划">
       <option name="closed" value="true" />
@@ -696,7 +693,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784189451267</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="2026.07.16">
+      <option name="closed" value="true" />
+      <created>1784195084513</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1784195084513</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,7 +731,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.04.13 简单题" />
     <MESSAGE value="2026.04.15 简单题 中心遍历" />
     <MESSAGE value="提交" />
     <MESSAGE value="2026.05.27" />
@@ -751,7 +755,8 @@
     <MESSAGE value="2026.06.20 今天双指针" />
     <MESSAGE value="2026.07.10" />
     <MESSAGE value="2026.07.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.07.15" />
+    <MESSAGE value="2026.07.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.07.16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -775,6 +780,11 @@
           <url>file://$PROJECT_DIR$/onedayone/src/main/java/year2026/month03/D24L2906.java</url>
           <line>15</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day17/L36.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
