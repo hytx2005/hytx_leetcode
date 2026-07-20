@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.17">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day18/L205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day18/L290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day18/L383.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.18">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day19/L128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day19/L202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day19/L219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day19/L242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week3/day19/L49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,14 +311,7 @@
       <workItem from="1784346524353" duration="1018000" />
       <workItem from="1784352685915" duration="1119000" />
       <workItem from="1784386022025" duration="850000" />
-    </task>
-    <task id="LOCAL-00015" summary="2026.03.20 L136 只出现一次的数字，可使用异或位运算完成，达到空间复杂度O(1)">
-      <option name="closed" value="true" />
-      <created>1773971216466</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1773971216466</updated>
+      <workItem from="1784435898202" duration="2653000" />
     </task>
     <task id="LOCAL-00016" summary="2026.03.20 L169 多数元素，可使用投票算法完成，达到空间复杂度O(1)">
       <option name="closed" value="true" />
@@ -702,7 +697,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784346557181</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="2026.07.18">
+      <option name="closed" value="true" />
+      <created>1784435905363</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1784435905363</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -732,7 +735,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="提交" />
     <MESSAGE value="2026.05.27" />
     <MESSAGE value="2026.05.28" />
     <MESSAGE value="2026.05.29" />
@@ -757,7 +759,8 @@
     <MESSAGE value="2026.07.15" />
     <MESSAGE value="2026.07.16" />
     <MESSAGE value="2026.07.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.07.17" />
+    <MESSAGE value="2026.07.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.07.18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
