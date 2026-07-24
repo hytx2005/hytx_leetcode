@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.21">
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day22/L138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day22/L141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day22/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day22/L21.java" afterDir="false" />
+    <list default="true" id="ae5a1f71-a1cf-4bfc-a399-ed9bc94f8535" name="更改" comment="2026.07.22">
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day23/L19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day23/L25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day23/L61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day23/L82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codetop/src/main/java/month202607/week4/day23/L86.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -316,15 +316,8 @@
       <workItem from="1784532840468" duration="4102000" />
       <workItem from="1784597939114" duration="82000" />
       <workItem from="1784613787326" duration="5099000" />
-      <workItem from="1784688719110" duration="1306000" />
-    </task>
-    <task id="LOCAL-00019" summary="2026.03.23 每日一题 今日题目：1594.矩阵的最大非负积&#10;所用算法：动态规划">
-      <option name="closed" value="true" />
-      <created>1774236760181</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1774236760181</updated>
+      <workItem from="1784688719110" duration="1441000" />
+      <workItem from="1784786636974" duration="2048000" />
     </task>
     <task id="LOCAL-00020" summary="2026.03.24 每日一题 今日题目：2906.构造乘积矩阵&#10;标签：二维转一维度、前后缀、动态规划">
       <option name="closed" value="true" />
@@ -710,7 +703,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784688834152</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2026.07.22">
+      <option name="closed" value="true" />
+      <created>1784690581092</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1784690581092</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -740,7 +741,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2026.05.30" />
     <MESSAGE value="2026.05.31" />
     <MESSAGE value="2026.06.01" />
     <MESSAGE value="2026.06.02" />
@@ -765,7 +765,8 @@
     <MESSAGE value="2026.07.19" />
     <MESSAGE value="2026.07.20" />
     <MESSAGE value="2026.07.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.07.21" />
+    <MESSAGE value="2026.07.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.07.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
